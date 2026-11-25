@@ -6,14 +6,16 @@
       "url": "https://raw.githubusercontent.com/biko-73/TeamNitro/main/script/installerDs.sh",
       "note": "Golden FHD skin, OE-A images (OpenBH, OpenATV, OpenViX...).",
       "res": "fhd",
-      "group": "Skins"
+      "group": "Skins",
+      "preview": "https://www.enigma2.net/wp-content/uploads/2023/03/DesertFHD.png"
     },
     {
       "label": "Dragon FHD (Team Nitro)",
       "url": "https://raw.githubusercontent.com/biko-73/TeamNitro/main/script/installerD.sh",
       "note": "Dark multi-color FHD skin, OE-A images.",
       "res": "fhd",
-      "group": "Skins"
+      "group": "Skins",
+      "preview": "https://i.ibb.co/Htq5yGw/CH-S-GC1.jpg"
     },
     {
       "label": "MaxyPro v1.2 WQHD  (OpenBH / Vu+)",
