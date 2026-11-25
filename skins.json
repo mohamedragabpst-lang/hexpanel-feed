@@ -1,0 +1,15 @@
+{
+ "_help": "Community skins served to HexPanel. Entry: label + url (installer .sh) or cmd. Optional: note, sha256, novaler. Entries without url/cmd stay hidden.",
+ "skins": [
+  {
+   "label": "MaxyPro v1.2 WQHD  (OpenBH / Vu+)",
+   "url": "",
+   "note": "From Novaler Egypt. Link needed."
+  },
+  {
+   "label": "Fury FHD",
+   "url": "",
+   "note": "Installer script - pending inspection."
+  }
+ ]
+}
