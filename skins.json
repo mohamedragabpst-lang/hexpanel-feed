@@ -1,36 +1,32 @@
 {
- "_help": "Community skins served to HexPanel. Entry: label + url (installer .sh) or cmd, hidden:true to keep invisible. Optional: note, sha256, arch: [all|mips|arm|aarch64|sh4], py: 2|3, res: hd|fhd. Items without arch/py/res show on every box. Entries without url/cmd stay hidden.",
- "skins": [
-  {
-   "label": "Desert FHD (Team Nitro)",
-   "url": "https://raw.githubusercontent.com/biko-73/TeamNitro/main/script/installerDs.sh",
-   "note": "Golden FHD skin, OE-A images (OpenBH, OpenATV, OpenViX...).",
-   "res": "fhd",
-   "group": "Skins"
-  },
-  {
-   "label": "Dragon FHD (Team Nitro)",
-   "url": "https://raw.githubusercontent.com/biko-73/TeamNitro/main/script/installerD.sh",
-   "note": "Dark multi-color FHD skin, OE-A images.",
-   "res": "fhd",
-   "group": "Skins"
-  },
-  {
-   "label": "BoHLALA FHD (Team Nitro)",
-   "url": "https://raw.githubusercontent.com/biko-73/TeamNitro/main/script/BoHLALA_FHD.sh",
-   "note": "Light FHD skin, OE-A images.",
-   "res": "fhd",
-   "group": "Skins"
-  },
-  {
-   "label": "MaxyPro v1.2 WQHD  (OpenBH / Vu+)",
-   "url": "",
-   "note": "From Novaler Egypt. Link needed."
-  },
-  {
-   "label": "Fury FHD",
-   "url": "",
-   "note": "Installer script - pending inspection."
-  }
- ]
+  "_help": "Community skins served to HexPanel. Entry: label + url (installer .sh) or cmd, hidden:true to keep invisible. Optional: note, sha256, arch: [all|mips|arm|aarch64|sh4], py: 2|3, res: hd|fhd. Items without arch/py/res show on every box. Entries without url/cmd stay hidden.",
+  "skins": [
+    {
+      "label": "Desert FHD (Team Nitro)",
+      "url": "https://raw.githubusercontent.com/biko-73/TeamNitro/main/script/installerDs.sh",
+      "note": "Golden FHD skin, OE-A images (OpenBH, OpenATV, OpenViX...).",
+      "res": "fhd",
+      "group": "Skins"
+    },
+    {
+      "label": "Dragon FHD (Team Nitro)",
+      "url": "https://raw.githubusercontent.com/biko-73/TeamNitro/main/script/installerD.sh",
+      "note": "Dark multi-color FHD skin, OE-A images.",
+      "res": "fhd",
+      "group": "Skins"
+    },
+    {
+      "label": "MaxyPro v1.2 WQHD  (OpenBH / Vu+)",
+      "url": "",
+      "note": "From Novaler Egypt. Link needed.",
+      "img": [
+        "openbh"
+      ]
+    },
+    {
+      "label": "Fury FHD",
+      "url": "",
+      "note": "Installer script - pending inspection."
+    }
+  ]
 }
