@@ -1,153 +1,175 @@
 {
- "_help": "Popular plugins served to HexPanel. Entry: label + url (installer .sh) or cmd. Optional: note, sha256, novaler:true (Novaler boxes only). sha256 is verified before running when present.",
- "plugins": [
-  {
-   "label": "AJPanel (file manager)",
-   "url": "https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh"
-  },
-  {
-   "label": "E2iPlayer (media center)",
-   "url": "https://raw.githubusercontent.com/oe-mirrors/e2iplayer/python3/e2iplayer_install.sh"
-  },
-  {
-   "label": "MyStreamer",
-   "url": "https://raw.githubusercontent.com/popking159/MyStreamer/refs/heads/main/myinstaller.sh"
-  },
-  {
-   "label": "SubsSupportPro (subtitles)",
-   "url": "https://raw.githubusercontent.com/popking159/SubsSupportPro/refs/heads/main/myinstaller.sh"
-  },
-  {
-   "label": "xtraevent (event logos)",
-   "url": "https://github.com/popking159/xtraeventplugin/raw/main/xtraevent-install.sh"
-  },
-  {
-   "label": "EPG Grabber",
-   "url": "https://dreambox4u.com/emilnabil237/plugins/Epg-Grabber/installer.sh"
-  },
-  {
-   "label": "ArabicSavior (arabic fix)",
-   "url": "https://raw.githubusercontent.com/popking159/ArabicSavior/refs/heads/main/myinstaller.sh"
-  },
-  {
-   "label": "CrashLogoViewer 1.9",
-   "url": "https://dreambox4u.com/emilnabil237/plugins/crashlogviewer/crashlogviewer_1.9.sh"
-  },
-  {
-   "label": "RaedQuickSignal (Novaler)",
-   "url": "https://raw.githubusercontent.com/fairbird/RaedQuickSignal/main/installer.sh",
-   "novaler": true
-  },
-  {
-   "label": "SetPicon (Emil mod)",
-   "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/setpicon/installer.sh"
-  },
-  {
-   "label": "NewVirtualKeyBoard",
-   "url": "https://raw.githubusercontent.com/fairbird/NewVirtualKeyBoard/main/installer.sh"
-  },
-  {
-   "label": "Internet Speedtest",
-   "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/internet-speedtest.sh"
-  },
-  {
-   "label": "CacheFlush",
-   "url": "https://raw.githubusercontent.com/popking159/cacheflush/refs/heads/main/myinstaller.sh"
-  },
-  {
-   "label": "Bitrate viewer",
-   "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/bitrate/bitrate.sh"
-  },
-  {
-   "label": "Custom Channel Selection",
-   "url": "https://raw.githubusercontent.com/popking159/customchannelselection/refs/heads/main/myinstaller.sh"
-  },
-  {
-   "label": "Button Patcher",
-   "url": "https://raw.githubusercontent.com/popking159/buttonpatcher/refs/heads/main/myinstaller.sh"
-  },
-  {
-   "label": "FootOnsat (match schedules)",
-   "url": "https://dreambox4u.com/emilnabil237/plugins/FootOnsat/installer.sh"
-  },
-  {
-   "label": "LunaTV",
-   "url": "https://raw.githubusercontent.com/popking159/LukaTV/refs/heads/main/myinstaller.sh"
-  },
-  {
-   "label": "MyHits",
-   "url": "https://raw.githubusercontent.com/popking159/myhits/refs/heads/main/myinstaller.sh"
-  },
-  {
-   "label": "SubExtractorLite",
-   "url": "https://raw.githubusercontent.com/Arian7s/SubExtractorLite/main/installer.sh"
-  },
-  {
-   "label": "Hisn Muslim (azkar)",
-   "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/hisnmuslim/hisnmuslim.sh"
-  },
-  {
-   "label": "Quran",
-   "url": "https://raw.githubusercontent.com/emil237/quran/main/installer.sh"
-  },
-  {
-   "label": "NetUsagePro",
-   "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/netusagepro/netusagepro.sh"
-  },
-  {
-   "label": "AutoZap Recovery",
-   "url": "https://raw.githubusercontent.com/HBK2010/-AutoZap-Recovery-by-Ahmad-Alamri/main/installer.sh"
-  },
-  {
-   "label": "Emil Remove Package",
-   "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/EmilRemovePackage/EmilRemovePackage.sh"
-  },
-  {
-   "label": "Novaler Store (Novaler)",
-   "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/novaler/novalerStore.sh",
-   "novaler": true
-  },
-  {
-   "label": "Novaler Downloader (Novaler)",
-   "url": "https://raw.githubusercontent.com/popking159/novalerdownloader/refs/heads/main/myinstaller.sh",
-   "novaler": true
-  },
-  {
-   "label": "IPAudio Pro Plus (Novaler)",
-   "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/novaler/ipaudioplus.sh",
-   "novaler": true
-  },
-  {
-   "label": "IPAudioPro",
-   "url": "https://raw.githubusercontent.com/zKhadiri/IPAudioPro-Releases-/main/installer.sh"
-  },
-  {
-   "label": "Aglare skin (PLi)",
-   "url": "https://raw.githubusercontent.com/popking159/skins/refs/heads/main/aglarepli/installer.sh"
-  },
-  {
-   "label": "Aglare skin (FHD ATV)",
-   "url": "https://raw.githubusercontent.com/popking159/skins/refs/heads/main/aglareatv/installer.sh"
-  },
-  {
-   "label": "Xtreamity (IPTV player)",
-   "url": "https://dreambox4u.com/emilnabil237/plugins/xtreamity/installer.sh"
-  },
-  {
-   "label": "Bouquet Maker Xtream",
-   "url": "https://dreambox4u.com/emilnabil237/plugins/BouquetMakerXtream/installer.sh"
-  },
-  {
-   "label": "Bootlogo Swapper v2.4",
-   "url": "https://dreambox4u.com/emilnabil237/script/BootlogoSwapper_v2.4.sh"
-  },
-  {
-   "label": "SimplySports",
-   "cmd": "cd /usr/lib/enigma2/python/Plugins/Extensions && rm -rf SimplySports SimplySports.zip && wget -q --no-check-certificate -O SimplySports.zip https://github.com/Ahmed-Mohammed-Abbas/SimplySports/archive/refs/heads/main.zip && unzip -o SimplySports.zip && mv SimplySports-main SimplySports; rm -f SimplySports.zip; echo; echo '--- finished. Enigma2 restarts automatically. ---'"
-  },
-  {
-   "label": "AutoSub",
-   "cmd": "wget -q --no-check-certificate -O /tmp/AutoSub.tar.gz https://raw.githubusercontent.com/HBK2010/AutoSub/main/AutoSub.tar.gz && tar xzf /tmp/AutoSub.tar.gz -C /usr/lib/enigma2/python/Plugins/Extensions; rm -f /tmp/AutoSub.tar.gz; echo; echo '--- finished. Enigma2 restarts automatically. ---'"
-  }
- ]
+  "_help": "Popular plugins served to HexPanel. Entry: label + url (installer .sh) or cmd. Optional: note, sha256, novaler:true (Novaler boxes only). sha256 is verified before running when present.",
+  "plugins": [
+    {
+      "label": "AJPanel (file manager)",
+      "url": "https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh",
+      "pkg": "enigma2-plugin-extensions-ajpanel",
+      "version": "5.3.0"
+    },
+    {
+      "label": "E2iPlayer (media center)",
+      "url": "https://raw.githubusercontent.com/oe-mirrors/e2iplayer/python3/e2iplayer_install.sh",
+      "pkg": "enigma2-plugin-extensions-e2iplayer"
+    },
+    {
+      "label": "MyStreamer",
+      "url": "https://raw.githubusercontent.com/popking159/MyStreamer/refs/heads/main/myinstaller.sh",
+      "pkg": "enigma2-plugin-extensions-mystreamer"
+    },
+    {
+      "label": "SubsSupportPro (subtitles)",
+      "url": "https://raw.githubusercontent.com/popking159/SubsSupportPro/refs/heads/main/myinstaller.sh"
+    },
+    {
+      "label": "xtraevent (event logos)",
+      "url": "https://github.com/popking159/xtraeventplugin/raw/main/xtraevent-install.sh",
+      "pkg": "enigma2-plugin-extensions-xtraevent"
+    },
+    {
+      "label": "EPG Grabber",
+      "url": "https://dreambox4u.com/emilnabil237/plugins/Epg-Grabber/installer.sh"
+    },
+    {
+      "label": "ArabicSavior (arabic fix)",
+      "url": "https://raw.githubusercontent.com/popking159/ArabicSavior/refs/heads/main/myinstaller.sh",
+      "pkg": "enigma2-plugin-extensions-arabicsavior"
+    },
+    {
+      "label": "CrashLogoViewer 1.9",
+      "url": "https://dreambox4u.com/emilnabil237/plugins/crashlogviewer/crashlogviewer_1.9.sh"
+    },
+    {
+      "label": "RaedQuickSignal (Novaler)",
+      "url": "https://raw.githubusercontent.com/fairbird/RaedQuickSignal/main/installer.sh",
+      "novaler": true
+    },
+    {
+      "label": "SetPicon (Emil mod)",
+      "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/setpicon/installer.sh",
+      "pkg": "enigma2-plugin-extensions-setpicon"
+    },
+    {
+      "label": "NewVirtualKeyBoard",
+      "url": "https://raw.githubusercontent.com/fairbird/NewVirtualKeyBoard/main/installer.sh"
+    },
+    {
+      "label": "Internet Speedtest",
+      "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/internet-speedtest.sh",
+      "pkg": "enigma2-plugin-extensions-internet-speedtest"
+    },
+    {
+      "label": "CacheFlush",
+      "url": "https://raw.githubusercontent.com/popking159/cacheflush/refs/heads/main/myinstaller.sh"
+    },
+    {
+      "label": "Bitrate viewer",
+      "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/bitrate/bitrate.sh",
+      "pkg": "enigma2-plugin-extensions-bitrate"
+    },
+    {
+      "label": "Custom Channel Selection",
+      "url": "https://raw.githubusercontent.com/popking159/customchannelselection/refs/heads/main/myinstaller.sh",
+      "pkg": "enigma2-plugin-extensions-customchannelselection"
+    },
+    {
+      "label": "Button Patcher",
+      "url": "https://raw.githubusercontent.com/popking159/buttonpatcher/refs/heads/main/myinstaller.sh"
+    },
+    {
+      "label": "FootOnsat (match schedules)",
+      "url": "https://dreambox4u.com/emilnabil237/plugins/FootOnsat/installer.sh",
+      "pkg": "enigma2-plugin-extensions-footonsat"
+    },
+    {
+      "label": "LunaTV",
+      "url": "https://raw.githubusercontent.com/popking159/LukaTV/refs/heads/main/myinstaller.sh",
+      "pkg": "enigma2-plugin-extensions-lukatv"
+    },
+    {
+      "label": "MyHits",
+      "url": "https://raw.githubusercontent.com/popking159/myhits/refs/heads/main/myinstaller.sh",
+      "pkg": "enigma2-plugin-extensions-myhits"
+    },
+    {
+      "label": "SubExtractorLite",
+      "url": "https://raw.githubusercontent.com/Arian7s/SubExtractorLite/main/installer.sh",
+      "pkg": "enigma2-plugin-extensions-subextractorlite"
+    },
+    {
+      "label": "Hisn Muslim (azkar)",
+      "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/hisnmuslim/hisnmuslim.sh"
+    },
+    {
+      "label": "Quran",
+      "url": "https://raw.githubusercontent.com/emil237/quran/main/installer.sh",
+      "pkg": "enigma2-plugin-extensions-quran-karim"
+    },
+    {
+      "label": "NetUsagePro",
+      "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/netusagepro/netusagepro.sh",
+      "pkg": "enigma2-plugin-extensions-netusagepro"
+    },
+    {
+      "label": "AutoZap Recovery",
+      "url": "https://raw.githubusercontent.com/HBK2010/-AutoZap-Recovery-by-Ahmad-Alamri/main/installer.sh"
+    },
+    {
+      "label": "Emil Remove Package",
+      "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/EmilRemovePackage/EmilRemovePackage.sh"
+    },
+    {
+      "label": "Novaler Store (Novaler)",
+      "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/novaler/novalerStore.sh",
+      "novaler": true,
+      "pkg": "enigma2-plugin-extensions-novalerstore-py"
+    },
+    {
+      "label": "Novaler Downloader (Novaler)",
+      "url": "https://raw.githubusercontent.com/popking159/novalerdownloader/refs/heads/main/myinstaller.sh",
+      "novaler": true,
+      "pkg": "enigma2-plugin-extensions-novalerdownloader"
+    },
+    {
+      "label": "IPAudio Pro Plus (Novaler)",
+      "url": "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/novaler/ipaudioplus.sh",
+      "novaler": true,
+      "pkg": "enigma2-plugin-extensions-ipaudioplus-py"
+    },
+    {
+      "label": "IPAudioPro",
+      "url": "https://raw.githubusercontent.com/zKhadiri/IPAudioPro-Releases-/main/installer.sh",
+      "pkg": "enigma2-plugin-extensions-ipaudiopro"
+    },
+    {
+      "label": "Aglare skin (PLi)",
+      "url": "https://raw.githubusercontent.com/popking159/skins/refs/heads/main/aglarepli/installer.sh",
+      "pkg": "enigma2-plugin-skins-aglare-fhd-pli"
+    },
+    {
+      "label": "Aglare skin (FHD ATV)",
+      "url": "https://raw.githubusercontent.com/popking159/skins/refs/heads/main/aglareatv/installer.sh",
+      "pkg": "enigma2-plugin-skins-aglare-fhd"
+    },
+    {
+      "label": "Xtreamity (IPTV player)",
+      "url": "https://dreambox4u.com/emilnabil237/plugins/xtreamity/installer.sh"
+    },
+    {
+      "label": "Bouquet Maker Xtream",
+      "url": "https://dreambox4u.com/emilnabil237/plugins/BouquetMakerXtream/installer.sh"
+    },
+    {
+      "label": "Bootlogo Swapper v2.4",
+      "url": "https://dreambox4u.com/emilnabil237/script/BootlogoSwapper_v2.4.sh"
+    },
+    {
+      "label": "SimplySports",
+      "cmd": "cd /usr/lib/enigma2/python/Plugins/Extensions && rm -rf SimplySports SimplySports.zip && wget -q --no-check-certificate -O SimplySports.zip https://github.com/Ahmed-Mohammed-Abbas/SimplySports/archive/refs/heads/main.zip && unzip -o SimplySports.zip && mv SimplySports-main SimplySports; rm -f SimplySports.zip; echo; echo '--- finished. Enigma2 restarts automatically. ---'"
+    },
+    {
+      "label": "AutoSub",
+      "cmd": "wget -q --no-check-certificate -O /tmp/AutoSub.tar.gz https://raw.githubusercontent.com/HBK2010/AutoSub/main/AutoSub.tar.gz && tar xzf /tmp/AutoSub.tar.gz -C /usr/lib/enigma2/python/Plugins/Extensions; rm -f /tmp/AutoSub.tar.gz; echo; echo '--- finished. Enigma2 restarts automatically. ---'"
+    }
+  ]
 }
