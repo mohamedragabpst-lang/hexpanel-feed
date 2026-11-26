@@ -4,7 +4,7 @@
     {
       "label": "wrynose-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/wrynose-spinners.sh",
-      "installer_sha256": "d12caf1800ebbd674abb328758fdad14eb5fa0190bb7af0a12ff25925819dee9",
+      "installer_sha256": "debd8a953f59fae976fa3b9ebb566e30931f2df559903db33f31c69473c4a7cf",
       "group": "Spinners",
       "sha256": "66a3be29e9d27824c489b39bc048aab0a7185b28dfde572cf7fac4426a210e3b",
       "size": 32582
@@ -12,7 +12,7 @@
     {
       "label": "openvix-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openvix-spinners.sh",
-      "installer_sha256": "822e6b93c49bafa0a2051a0baceff4cb7525de9efe29492f5726da6901081835",
+      "installer_sha256": "bfed5479b8cee13b7437673ab949674ac4b8600d9f3e28a49afc805915f8d21d",
       "group": "Spinners",
       "sha256": "c53d2df27793b94a3871222813aa28f1293fdb9c1c69c78bda6ef7930df6fa6b",
       "size": 88002
@@ -20,7 +20,7 @@
     {
       "label": "openbh-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openbh-spinners.sh",
-      "installer_sha256": "741544fa3e2aefa6f384847e8776a00a962936390114e3e6ebb49590dc2485c3",
+      "installer_sha256": "07227e018111f0b87bb48f1969649a4fc3e9b3f7d8eacc817302b1638a996215",
       "group": "Spinners",
       "sha256": "5bb7f820be74b2839d6276f330192aa2fd6e31388af1567bba4e9d1100e6e2a6",
       "size": 85593
@@ -28,7 +28,7 @@
     {
       "label": "corvoboys-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/corvoboys-spinners.sh",
-      "installer_sha256": "7416037973e30b98e30528b31658546179764c92e5295ee194178fec4a4cb87f",
+      "installer_sha256": "600c71c94f1b62eb02b33854bc3ef50f01cdf649ace49caa85dd1bc153e6302e",
       "group": "Spinners",
       "sha256": "53dd352434c46ec9d46218f0e438797141904e4eb8c41df30bec48cc51f48423",
       "size": 22975
@@ -36,7 +36,7 @@
     {
       "label": "teamblue-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/teamblue-spinners.sh",
-      "installer_sha256": "2f0054b113ba92f5679b2dcc9501929a93ad4e4c840c0f8465f542c3e5e06757",
+      "installer_sha256": "ab2b30fd1f6840ebdde8734469a0e215f54b2ef250c950d02ee16843912b73c6",
       "group": "Spinners",
       "sha256": "39223b9b752e89b75d02cc915ff61f70daa993b165d1c32b17407dd7a7f9f098",
       "size": 4837
@@ -44,7 +44,7 @@
     {
       "label": "openpli101-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openpli101-spinners.sh",
-      "installer_sha256": "c7e66c35e923163dff7dd2cc6a2c13a1d72ccce8a276ab6eacd6636cc43f974b",
+      "installer_sha256": "b60fadd5743a07a883242c29af4aaf10a4daf51cfdbb9591751c8ea4ed8a0b46",
       "group": "Spinners",
       "sha256": "119ca5a484891a55fd4424dea152d3a9a2cc8bf5a343e63d4f8ff344d7aec541",
       "size": 32569
@@ -52,7 +52,7 @@
     {
       "label": "egami-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/egami-spinners.sh",
-      "installer_sha256": "322a6656a0f23ccef3ce245170f5909a7a32637d3d0d2df7e9c6d8bf825641d9",
+      "installer_sha256": "a9114db4aae14de329d190d77f2233c8eb2948cf6f1cf15eb126780e1bc736b9",
       "group": "Spinners",
       "sha256": "0896885f8283e75ddf64d774d1c47e8ca8220b5b4201e0e180fc6809feb2c51d",
       "size": 38781
@@ -60,7 +60,7 @@
     {
       "label": "pure2-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/pure2-spinners.sh",
-      "installer_sha256": "e7d0468ee6282833df9adb687e0c642c0e78f3157f889ca9a4bfc52974d00bca",
+      "installer_sha256": "a9698f8febff0c5b9c36cf1e64a1a2bcfe5f8cf2b2f29a055f34a7c661591066",
       "group": "Spinners",
       "sha256": "95b1002016b9c57488c05f487516dde7a436b7fc3897574a36bc64048efb2770",
       "size": 12374
@@ -68,7 +68,7 @@
     {
       "label": "openhdf-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openhdf-spinners.sh",
-      "installer_sha256": "e56c11292da60c53b696ff1aebe2efcf9deb7ca148f2e7f2ec185d42edfdefe3",
+      "installer_sha256": "7db2d44bd2b35aaee5fda7c33a1537b0156de0c21e3929c7e281213a599f03b0",
       "group": "Spinners",
       "sha256": "5926d9bc1f21c09cd295be014831b71e2ad7aa4e0e904a217ec5fd9a1a4bd1c4",
       "size": 80254
@@ -76,7 +76,7 @@
     {
       "label": "openspa-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openspa-spinners.sh",
-      "installer_sha256": "555611edcc0224bc16916e216cab2715c9e3f65a932ce9632345a1784d713c6a",
+      "installer_sha256": "0f3a158ea259bf6f6d7c45fe501a67e22fa66ca7d07ca1dc101fc1bd2488a04f",
       "group": "Spinners",
       "sha256": "be49633f1a68b427d289ba095eb6f050fa5437b3c72e8e292e8cffd78cb6ba37",
       "size": 6040
@@ -84,7 +84,7 @@
     {
       "label": "zukon-spinners",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/zukon-spinners.sh",
-      "installer_sha256": "9f1e4727b1de37a914c68befdb2d81ed0be359cd2a8804e867d9098fdb721e3a",
+      "installer_sha256": "a6ffddb9c67ed3a9f3d2dc8cb92e1db6936d25252d403a614012a64bc1fb1c2d",
       "group": "Spinners",
       "sha256": "386e6b533af34743b2702882bce59760cd31d3cbda1a49bd08ea61ddf427d854",
       "size": 1372050

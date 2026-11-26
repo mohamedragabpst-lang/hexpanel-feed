@@ -18,7 +18,7 @@
       "preview": "https://i.ibb.co/Htq5yGw/CH-S-GC1.jpg"
     },
     {
-      "label": "MaxyPro v1.2 WQHD  (OpenBH / Vu+)",
+      "label": "MaxyPro v1.2 WQHD (OpenBH / Vu+)",
       "url": "",
       "note": "From Novaler Egypt. Link needed.",
       "img": [
@@ -33,7 +33,7 @@
     {
       "label": "Aglare-FHD-PLI",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.wrynose.sh",
-      "installer_sha256": "47dd187726b7e40cb89380be808a38f649de474fc45a9d5a119f010ecaaa77a8",
+      "installer_sha256": "36d116ac9a33f0d713e7ed6eec2a3aa91efc0cee4cb22b527b0cec7d2eb7bd07",
       "res": "fhd",
       "group": "Skins - openpli-wrynose",
       "img": [
@@ -48,7 +48,7 @@
     {
       "label": "E2-DarkOS",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/E2-DarkOS.wrynose.sh",
-      "installer_sha256": "b5d3c0f886dd62df78e196f76c45f0145bfe5c9487d620c7b8217e1541ffd87d",
+      "installer_sha256": "87c56a5c1463e7fad647912ca73252915490f9a05e472b9b42af67609f315d91",
       "res": "fhd",
       "group": "Skins - openpli-wrynose",
       "img": [
@@ -63,7 +63,7 @@
     {
       "label": "SimpleGray-FHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/SimpleGray-FHD.wrynose.sh",
-      "installer_sha256": "a1f75a93e22283b0c7402ae87145742235dd75aba4f9451cc312ef627d76b940",
+      "installer_sha256": "1519be0a7716cc14305f0f32cf899e276561b737fb2f494a97113114c578eb15",
       "res": "fhd",
       "group": "Skins - openpli-wrynose",
       "img": [
@@ -78,7 +78,7 @@
     {
       "label": "Aglare-FHD-PLI",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.openvix.sh",
-      "installer_sha256": "05460671bf05377615c7185870a63e320f5c71a416f9c7c415766a176b25d531",
+      "installer_sha256": "b7aa50d48f336223e12aa171affd1efe90c322bf50bb27b899b6592fa6b3f264",
       "res": "fhd",
       "group": "Skins - openvix",
       "img": [
@@ -93,7 +93,7 @@
     {
       "label": "Simple_Ten_Eighty",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Simple_Ten_Eighty.openvix.sh",
-      "installer_sha256": "8fe3c9495236c272088b9ff2fca3cfb2104261e2eba07669489467dd61a080a9",
+      "installer_sha256": "8a5b2b90b00f980e530b03493ac0c2563ba0b8148366226568ba192d465544ac",
       "res": "fhd",
       "group": "Skins - openvix",
       "img": [
@@ -108,7 +108,7 @@
     {
       "label": "ViXBMC_1080_Bello",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/ViXBMC_1080_Bello.openvix.sh",
-      "installer_sha256": "8753df2466a73e96812068396d1a9e20486c93e5f9b60e59f880945c554b4c75",
+      "installer_sha256": "a782b014835264d0ba29c6324928d281372a18c499f25c67a3d8fe36c4e2183b",
       "res": "fhd",
       "group": "Skins - openvix",
       "img": [
@@ -123,7 +123,7 @@
     {
       "label": "ViXBMC_1080_Common",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/ViXBMC_1080_Common.openvix.sh",
-      "installer_sha256": "78146d0c8a21ec5ac1902debcf215d949e747651f0a15852f556031a40ec2668",
+      "installer_sha256": "d7c64e1e6f11ad6e64770e7ef001ee88b3e614abf1e09371a670d521c273f8ac",
       "res": "fhd",
       "group": "Skins - openvix",
       "img": [
@@ -138,7 +138,7 @@
     {
       "label": "Aglare-FHD-PLI",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.openbh.sh",
-      "installer_sha256": "10487701bf2389687a17dec82c045120333bef291637e8f2a3630c4433aa7674",
+      "installer_sha256": "0548ca43add3eb4ddde66775e0d00cb063743066b1a7c35a05b344c56739e346",
       "res": "fhd",
       "group": "Skins - openbh",
       "img": [
@@ -153,7 +153,7 @@
     {
       "label": "MX_HQ10",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/MX_HQ10.openbh.sh",
-      "installer_sha256": "02593e838c79b577a3984f05b48bb1d5635a8813941ca4cbd3c0f6d4d83c7570",
+      "installer_sha256": "53d052019bd2d4599a3996ad5064255592c05498ce952ced0f06350263019414",
       "res": "fhd",
       "group": "Skins - openbh",
       "img": [
@@ -168,7 +168,7 @@
     {
       "label": "MX_SilverLight_P",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/MX_SilverLight_P.openbh.sh",
-      "installer_sha256": "efab4c778fff29ec058034a953248a2503f345ab16d997c77a3c0ac3f36a2f15",
+      "installer_sha256": "61eb1058bb7a50cf85f1bd7417c90e29247b6a50bef1f974eb6f8dc67d1cdae7",
       "res": "fhd",
       "group": "Skins - openbh",
       "img": [
@@ -183,7 +183,7 @@
     {
       "label": "MX_Slim-Line_NP",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/MX_Slim-Line_NP.openbh.sh",
-      "installer_sha256": "67f7d157c8ecd5d7f9f0b56c379981ea22995aad023f1980195feae33eb70403",
+      "installer_sha256": "cd1a329d7399a0ee18a436e287a88cd336f82ddfc1f4a2f578c67865541f17cc",
       "res": "fhd",
       "group": "Skins - openbh",
       "img": [
@@ -198,7 +198,7 @@
     {
       "label": "Aglare-FHD-PLI",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.corvoboys.sh",
-      "installer_sha256": "2c4d28e4261ca8ee44d0e351c7fd9fa2d83e2bf1198d45e08192c10abd62f7fd",
+      "installer_sha256": "8e5e41553bba3f123a9f5c9f31ce952504a7c0cd1ddcaf9dd4a9d08029ff5673",
       "res": "fhd",
       "group": "Skins - corvoboys",
       "img": [
@@ -213,7 +213,7 @@
     {
       "label": "pDreamy-FHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/pDreamy-FHD.corvoboys.sh",
-      "installer_sha256": "d42ca406d39f149532e55fa39e537ad53c9e1af70f752dda96ddb99e97ce6446",
+      "installer_sha256": "c6184e5bfb1c394fd6511ed8a4bb427f644632698fe5fe713b09c0ffa929d29a",
       "res": "fhd",
       "group": "Skins - corvoboys",
       "img": [
@@ -228,7 +228,7 @@
     {
       "label": "GigabluePaxV2",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/GigabluePaxV2.teamblue.sh",
-      "installer_sha256": "6bb8414d3ea9aa7042cc5052e5caf1ad8b2524dc19bf4c8874e79bcebaabf42b",
+      "installer_sha256": "e9652a0e5694cf58fa4ff542063d681226d95ef710856f66d712d49d27231376",
       "res": "fhd",
       "group": "Skins - teamblue",
       "img": [
@@ -243,7 +243,7 @@
     {
       "label": "KravenHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/KravenHD.teamblue.sh",
-      "installer_sha256": "fc3d5ffb37e2aa64ef08d849939ffe732f54b3055e578af0cc687b8a68ac7ae4",
+      "installer_sha256": "237089dc3ea4b668134e5085b03f3049189b63b37376de3560d3e0b657cc0baf",
       "res": "fhd",
       "group": "Skins - teamblue",
       "img": [
@@ -258,7 +258,7 @@
     {
       "label": "Aglare-FHD-PLI",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.openpli101.sh",
-      "installer_sha256": "f3c4a54dce9b5b917db134c901c97d46fc5ef6e6ddcd9695ad1dc0855bb34daa",
+      "installer_sha256": "22703014be60fecd89c0b0df3dfd57864da3bd37a3254ab15439bfeb6855fbb0",
       "res": "fhd",
       "group": "Skins - openpli-10.1",
       "img": [
@@ -273,7 +273,7 @@
     {
       "label": "E2-DarkOS",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/E2-DarkOS.openpli101.sh",
-      "installer_sha256": "fa36401f89980c67860a4c6e7d0f0b3fcc2774a36d321e3952f9bcdc426e667a",
+      "installer_sha256": "ba19ad34b81871d9652daf4bec625e5cf456b78703d75ac28b676aab0937d726",
       "res": "fhd",
       "group": "Skins - openpli-10.1",
       "img": [
@@ -288,7 +288,7 @@
     {
       "label": "Luka-FHD-PLI",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Luka-FHD-PLI.openpli101.sh",
-      "installer_sha256": "0c8da45c6f15a0dddf0271a7790f5b7915d4b8aab09b57cc71a5c2d3dfc32af9",
+      "installer_sha256": "abee67f9b4633a2f5eb2e68b6fef8314509ff41c2eff63fbe15d123e84b3e314",
       "res": "fhd",
       "group": "Skins - openpli-10.1",
       "img": [
@@ -303,7 +303,7 @@
     {
       "label": "SimpleGray-FHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/SimpleGray-FHD.openpli101.sh",
-      "installer_sha256": "0c6601b39ebab8430fcd501e528af3362175069861ebd97f8b4e612ee70e79a6",
+      "installer_sha256": "e47972ef923e4db24db1452554b9de58517a97e1513044f9427df8188fcb3b16",
       "res": "fhd",
       "group": "Skins - openpli-10.1",
       "img": [
@@ -318,7 +318,7 @@
     {
       "label": "pDreamy-FHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/pDreamy-FHD.openpli101.sh",
-      "installer_sha256": "8f4f975c1488d6aa5ba62374ef8b185a16535dabea4af7bd6e6cc41abc28049b",
+      "installer_sha256": "b061a8a42afbe9b7c49efdaa65799f7e6e7848a5b6d07f31b686765979a4ed6b",
       "res": "fhd",
       "group": "Skins - openpli-10.1",
       "img": [
@@ -333,7 +333,7 @@
     {
       "label": "Luka-FHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Luka-FHD.egami.sh",
-      "installer_sha256": "d7fc6de74d176550c66ed4eb19a3aea575b4a2a1888fc8b50d800bc4eeabbc40",
+      "installer_sha256": "80d8417e1c309f1f94a892a14ea42346d09147db3a7a45529365a53d316603f5",
       "res": "fhd",
       "group": "Skins - egami",
       "img": [
@@ -348,7 +348,7 @@
     {
       "label": "egami_skin_default",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/egami_skin_default.egami.sh",
-      "installer_sha256": "b7961ed138c965c9331a5fdec5c21c18dbb4d4528177253479fbdc94f9b4c9b5",
+      "installer_sha256": "c0ea0dbd0cc642b4de3d3608611435703bdc437debec258c27bb891044b769c0",
       "res": "fhd",
       "group": "Skins - egami",
       "img": [
@@ -363,7 +363,7 @@
     {
       "label": "oDreamy-FHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/oDreamy-FHD.egami.sh",
-      "installer_sha256": "85866c0f1b210c0fb5e05751233715337218773e34a3d87781cb01315cba3af4",
+      "installer_sha256": "4f25ad413b61a96019e63c9f499d9ba085590a01b32231c21dd496fe72028197",
       "res": "fhd",
       "group": "Skins - egami",
       "img": [
@@ -378,7 +378,7 @@
     {
       "label": "oDreamy-FHD-Mini",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/oDreamy-FHD-Mini.egami.sh",
-      "installer_sha256": "00fe72d2775b80dce21bd2285effd52e5cf3108db1f91c81c70e628e3c542d51",
+      "installer_sha256": "aef60017bfc24b00fdceea652c21538154636efe5a122a9cee24f35d354a7f2f",
       "res": "fhd",
       "group": "Skins - egami",
       "img": [
@@ -393,7 +393,7 @@
     {
       "label": "Estuary",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Estuary.pure2.sh",
-      "installer_sha256": "425c64929776daaf5f9863024d4946aa0a9926e4c8f819785b7b017ad6058f9b",
+      "installer_sha256": "5a845100a58dcdc62ae27b563845fb41f42c0e079234ced502797d33a09decb8",
       "res": "fhd",
       "group": "Skins - pure2",
       "img": [
@@ -408,7 +408,7 @@
     {
       "label": "oDreamy-FHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/oDreamy-FHD.pure2.sh",
-      "installer_sha256": "a3f06bb16ccf3d7af74ed32efb291d79c646a83edecd448f4cf489169e92bc04",
+      "installer_sha256": "cb161680e96882c5e8f3a8c7621f81df2c96185e8885aca6826b0faf09f712f9",
       "res": "fhd",
       "group": "Skins - pure2",
       "img": [
@@ -423,7 +423,7 @@
     {
       "label": "XionHDF",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/XionHDF.openhdf.sh",
-      "installer_sha256": "75a515f2c3d98428e341ef13bc10ca341cf7f280b14894ec3a17e55eea4972f6",
+      "installer_sha256": "a2a578851d0b9705c30e4f4195500d08da246f44bfb134b313177efe7d760886",
       "res": "fhd",
       "group": "Skins - openhdf",
       "img": [
@@ -438,7 +438,7 @@
     {
       "label": "OctEtFHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/OctEtFHD.openspa.sh",
-      "installer_sha256": "f8b8f9abb2d2683e5e660a33439b44132f5f3b7348eb42e183c1e6de8afbf50f",
+      "installer_sha256": "7e67e2ff9b1a7cccd9c30af32732a31431451497fc675e86c038e6be2c6ccdff",
       "res": "fhd",
       "group": "Skins - openspa",
       "img": [
@@ -453,7 +453,7 @@
     {
       "label": "BlackHarmony",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/BlackHarmony.zukon.sh",
-      "installer_sha256": "15c91e41632572d945c9aa0d6f271080ca167014e9120ead2443bf3791fa8789",
+      "installer_sha256": "0bc29b670cb202fdd3ec53495f905da9a7de7d79e4240add71720ccdc44074eb",
       "res": "fhd",
       "group": "Skins - zukonmod",
       "img": [
@@ -468,7 +468,7 @@
     {
       "label": "DarkFHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/DarkFHD.zukon.sh",
-      "installer_sha256": "a64446c384a1ae2587437721fb21ad89593fc7dbae0b6f10f5279ef1743e1833",
+      "installer_sha256": "5a05b13464bee64b0285776eed8fd49dd71beedc14aa8a458d9fd2740fa84f81",
       "res": "fhd",
       "group": "Skins - zukonmod",
       "img": [
@@ -483,7 +483,7 @@
     {
       "label": "FullHDLine",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/FullHDLine.zukon.sh",
-      "installer_sha256": "9f2c9d44df17edd887c87e2596c4e33fd184dfcc262265401197200325359b4a",
+      "installer_sha256": "eb80bc7aca124db76036116021580080f9d7b4f9d54f26fcedf560cbe638fc1e",
       "res": "fhd",
       "group": "Skins - zukonmod",
       "img": [
@@ -498,7 +498,7 @@
     {
       "label": "PKT_RedHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/PKT_RedHD.zukon.sh",
-      "installer_sha256": "a578c5b470add15f6ace2c7228de0efbf75a96971d6380f185be3a0a206151a0",
+      "installer_sha256": "d43beb22c3c6b86c58dee60e653ba8015282be1a97d9dae32fd33fdb19c84d21",
       "res": "fhd",
       "group": "Skins - zukonmod",
       "img": [
@@ -513,7 +513,7 @@
     {
       "label": "PKT_SilverHD",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/PKT_SilverHD.zukon.sh",
-      "installer_sha256": "c91b5b1cf492058e2171962263bc6762c8151dd443514bb1f9498711945ac4bd",
+      "installer_sha256": "d07aa289bb46669f64b5884aef81d71bac21a69079b51fc15595307e3346aa57",
       "res": "fhd",
       "group": "Skins - zukonmod",
       "img": [

@@ -10,31 +10,31 @@
       "parts": [
         {
           "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/novaler-picons-union-part1of7.sh",
-          "installer_sha256": "41dc8eabc7a289fc5344ac7e0d40e764888b818fb58696d1973e2c308323f5cb"
+          "installer_sha256": "ca2dd5d59a6ec61766a1a156a71d953cb6566f21f102781abe5b295e6baea30e"
         },
         {
           "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/novaler-picons-union-part2of7.sh",
-          "installer_sha256": "545e7f1399850e554762f74ecbac654b46789e2dd28356b7ea49ee95f1f413f4"
+          "installer_sha256": "f10f7d4e309248976916a26f15eba2fd4772aab65b59a4c6e95e045a32e743ba"
         },
         {
           "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/novaler-picons-union-part3of7.sh",
-          "installer_sha256": "180d06c635eda8ae3a5c38b90719eef4d17d03b87907e1a046d92ea083d3e179"
+          "installer_sha256": "736234da47aab097bab6447854b108a6dd618817ef8f5a8dadd92c635c014ec5"
         },
         {
           "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/novaler-picons-union-part4of7.sh",
-          "installer_sha256": "a776a6e2c34b7bd0f4cb4756c4e4fddb0fdd14c33191b04c3c981abc806b66ca"
+          "installer_sha256": "7e8e0d9a4fb425db43d40f5fa29976220c1e47e3f6c2ba3a9ee41748d849d024"
         },
         {
           "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/novaler-picons-union-part5of7.sh",
-          "installer_sha256": "299336d9208bd66592d1f7d37203c1f794ce416b4d2a8e5199048ea0153f31c1"
+          "installer_sha256": "db75628634e609a93c9ca45d5c25f567d0d474b61e4e6937175cc26be71ab966"
         },
         {
           "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/novaler-picons-union-part6of7.sh",
-          "installer_sha256": "d3a520b1dbcf3f8047b9da2d1c73b8927490ecbf6932a0cff05e0606748db669"
+          "installer_sha256": "fd949631fd9bbb884d8963f85615c1acfd866495a6a51217fb4752772118b8fe"
         },
         {
           "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/novaler-picons-union-part7of7.sh",
-          "installer_sha256": "7298c6165d2ab36cd90a710748ed358cd0fd1859a9413144e2c70274b49e4e56"
+          "installer_sha256": "c50bab6c3745dd41595d844526abb1e3615a488a800e02823f4756972cce893f"
         }
       ]
     }

@@ -4,7 +4,7 @@
     {
       "label": "wrynose-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/wrynose-channel-list.sh",
-      "installer_sha256": "9e36ad2b59192248ce87963f3e22102e7a27376a1a6601977078d89a94d739d5",
+      "installer_sha256": "52d4f82b05f53e5660b764cadfcfb72ad02af320d2a92a29d7fd03e57d78e4ae",
       "group": "Settings - channel lists",
       "sha256": "b112d1377be76d0da068f34b6e8a30ec29d48a39dff9437c7513ccddf61d3e79",
       "size": 439705,
@@ -16,7 +16,7 @@
     {
       "label": "openvix-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openvix-channel-list.sh",
-      "installer_sha256": "b64aa9e84c7ec504d5e0cbb6e556122fbf94e137582f15b4a1caf82fc421c1d6",
+      "installer_sha256": "37e9dacbce7ae5d09857ea16af77f7092ffb5fb69254ac3e0d24cc7cc5552b01",
       "group": "Settings - channel lists",
       "sha256": "53e8b6248694e1e0d047d0693d94a77968e657ea7fabef7a330be71fcdc22ad1",
       "size": 421474,
@@ -28,7 +28,7 @@
     {
       "label": "openbh-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openbh-channel-list.sh",
-      "installer_sha256": "a0f3b7c66ee408232bb38e8d0145b6f9928f43fd53b7078e505231266030e676",
+      "installer_sha256": "00e435585832326c67930b7e83e6de418b8cee0fa355a52fb399685a685bcd0d",
       "group": "Settings - channel lists",
       "sha256": "10d2ee2c2f791af103f7780a99f7dcfa9b72f8ad92a2c862234cd2336e7e4fb8",
       "size": 422364,
@@ -40,7 +40,7 @@
     {
       "label": "corvoboys-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/corvoboys-channel-list.sh",
-      "installer_sha256": "4c2a33ee20b9cc127427f78126fdc11f3b0c702c812982031878062047f09836",
+      "installer_sha256": "4a5629162ab35471a0f476ca6f99624e1425f39182b17bda603e47c4024c5ef7",
       "group": "Settings - channel lists",
       "sha256": "bb9a369c981f1f64628dc3f3bc45d6eeef8775ef77ac3fca0dd8e34d4840de25",
       "size": 415566,
@@ -52,7 +52,7 @@
     {
       "label": "teamblue-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/teamblue-channel-list.sh",
-      "installer_sha256": "fa7d6cebd0836d3422bf302f95dbf56adba90fb8c1ae011125b1ede05f8203a2",
+      "installer_sha256": "f788420037e86ef58a62eab496440564501966e9607643cab251f2cb59288792",
       "group": "Settings - channel lists",
       "sha256": "6ea61df1d49168553b2892fd7d51ab68de63d6732831129e9ce5eab7939903b4",
       "size": 400128,
@@ -64,7 +64,7 @@
     {
       "label": "openpli101-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openpli101-channel-list.sh",
-      "installer_sha256": "9122dcdfb7d01fcb54fd4a95b92194b50ae158b9d02ed0d43c973533b686a1c0",
+      "installer_sha256": "b43c12c43d38f6c1ebd66acc24a0b520d0ff8b4c25390c521700a7028d7d10d0",
       "group": "Settings - channel lists",
       "sha256": "599250b2b9e2494a85ac60719840a256c3b07e511ed0a1c6a7fefa4e85a2caf2",
       "size": 390703,
@@ -76,7 +76,7 @@
     {
       "label": "egami-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/egami-channel-list.sh",
-      "installer_sha256": "4de022fc5ef2c26341af6a8abe8c3306839b107784968e1560391c9e5627a824",
+      "installer_sha256": "94a15a604b01db8caeee0118118455f213d15264505c346adc1eb95115baaded",
       "group": "Settings - channel lists",
       "sha256": "675718ccdddde9149ba08325edcd014b5c889f30cba23412a77b1167752555cd",
       "size": 403630,
@@ -88,7 +88,7 @@
     {
       "label": "pure2-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/pure2-channel-list.sh",
-      "installer_sha256": "aa792b63d753c1a2d23d120d857232501e02638edc4d96706eff3787a129ad30",
+      "installer_sha256": "4916e663bd3cd4493cb54f576871ead2613acf84f87b4cc8d15367f08542f42d",
       "group": "Settings - channel lists",
       "sha256": "8f15d0e048d8989601cd9d852201d0f2efb846cd85d31ed270c7d9c16eb48477",
       "size": 403576,
@@ -100,7 +100,7 @@
     {
       "label": "openhdf-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openhdf-channel-list.sh",
-      "installer_sha256": "309cf7a702184e2f63b549fd39bd9abeef2764e35c647d2ee29b4a84890389c4",
+      "installer_sha256": "92612e583a3d421f193ef86b52d94a26febba04993097f7d72f27d806cc0bbc6",
       "group": "Settings - channel lists",
       "sha256": "b3564b4580bce9ed9f7707afe2a1f632f9457c7262af361248d31a1815eace72",
       "size": 403129,
@@ -112,7 +112,7 @@
     {
       "label": "openspa-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openspa-channel-list.sh",
-      "installer_sha256": "5902f339749b0176e4dd1f80676c649156af655366a123363578a487286be9ca",
+      "installer_sha256": "ddd0b61099a7031a650717626ac42e4e428796ce8daa3fc199d0f425f0aa65c5",
       "group": "Settings - channel lists",
       "sha256": "2a09837322d347346da5553bd078ba3d3cae3cef47918aa861dec2b59c47ba35",
       "size": 396305,
@@ -124,7 +124,7 @@
     {
       "label": "zukon-channel-list",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/zukon-channel-list.sh",
-      "installer_sha256": "6b0a67071cb5dea29d43d4e98d8eea3b4598579b0e18c27186527f6c60776d97",
+      "installer_sha256": "36539075a1beab1630a26b29a49c9986786018e66be95a061382b73670d62538",
       "group": "Settings - channel lists",
       "sha256": "33b5e7310a4ac5d2e0d10a0e849cc7eb6e8e528c5b1ef59dccf9aa80eeae8c4b",
       "size": 370934,

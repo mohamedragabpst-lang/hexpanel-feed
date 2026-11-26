@@ -3,21 +3,21 @@
   "satellites": [
     {
       "label": "satellites.xml (latest, Oct 2026)",
-      "cmd": "wget -q --no-check-certificate -O /etc/tuxbox/satellites.xml https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/tuxbox/satellites.xml && echo done",
+      "cmd": "wget -q --no-check-certificate -O /etc/tuxbox/satellites.xml https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/satellites.xml && echo done",
       "group": "Settings - satellite/tuxbox files",
       "sha256": "92903b0e13b257faf662cc35bdb8edbb0e5dbaa30c1eeb8c279d6e1545164262",
       "size": 479484
     },
     {
       "label": "cables.xml (latest, Oct 2026)",
-      "cmd": "wget -q --no-check-certificate -O /etc/tuxbox/cables.xml https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/tuxbox/cables.xml && echo done",
+      "cmd": "wget -q --no-check-certificate -O /etc/tuxbox/cables.xml https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/cables.xml && echo done",
       "group": "Settings - satellite/tuxbox files",
       "sha256": "0e5df34966af92ccadc01a12b5351e0864d17365a036fc2a6c695b1d78c600c9",
       "size": 801551
     },
     {
       "label": "terrestrial.xml (latest, Oct 2026)",
-      "cmd": "wget -q --no-check-certificate -O /etc/tuxbox/terrestrial.xml https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/tuxbox/terrestrial.xml && echo done",
+      "cmd": "wget -q --no-check-certificate -O /etc/tuxbox/terrestrial.xml https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/terrestrial.xml && echo done",
       "group": "Settings - satellite/tuxbox files",
       "sha256": "1cf3893c682b4bbe141070b4901c7503b1242428b7894cb6b76fd26207307428",
       "size": 364747

@@ -4,7 +4,7 @@
     {
       "label": "wrynose-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/wrynose-bootlogos.sh",
-      "installer_sha256": "37e9241120b1b7ff1562b78801c267545a36c98bde37525febd2e386fc65e5de",
+      "installer_sha256": "a5adcf7efe6fd81ebeb08118da90141a6601194fa21c907c54c9b4d938d375c2",
       "group": "Bootlogos (Novaler)",
       "sha256": "9b22d3b9b20fdd83a336be424ac3c85f8f1f64a61fbbe0069ea5049775ac9334",
       "size": 565344,
@@ -13,7 +13,7 @@
     {
       "label": "openvix-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openvix-bootlogos.sh",
-      "installer_sha256": "2febca31be8dca6f53f6956b6c5576f4e11178b20e650ab2eec438635b0173c6",
+      "installer_sha256": "762222e805ebb8a03862e649d367f99cd0dc20e434bbd772d19773cc5a5b5aeb",
       "group": "Bootlogos (Novaler)",
       "sha256": "ea2d933d3c77f0f514597e0ae07f560a0cc07972588482b829616acddc9c07d3",
       "size": 1280000,
@@ -22,7 +22,7 @@
     {
       "label": "openbh-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openbh-bootlogos.sh",
-      "installer_sha256": "3bf2ce1cf5efb35a611b843828beae9b85f7534fe498d4f48d6f2eaf9bc770f0",
+      "installer_sha256": "8b63087c4124cc6d8cbee67eb64d83819d8b36aa2274e67adf28cbaad62b36a3",
       "group": "Bootlogos (Novaler)",
       "sha256": "120fb8a432c896eead97bd52259c2d810674ed4639e89385df20ac843c85d7e6",
       "size": 1025070,
@@ -31,7 +31,7 @@
     {
       "label": "corvoboys-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/corvoboys-bootlogos.sh",
-      "installer_sha256": "b837d6f3078d8e0b9eb4d4fe96c1950adc85aad3eda7340ceea9dd44dab29c17",
+      "installer_sha256": "5f3c6839220eb3b9dadbd19e677906441260a27c2d8f20c77cfd29f49ffd2e52",
       "group": "Bootlogos (Novaler)",
       "sha256": "8cc907d787f237b2d40966dc0c860629bd01fce59304186023392a0e7b42afdd",
       "size": 311503,
@@ -40,7 +40,7 @@
     {
       "label": "teamblue-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/teamblue-bootlogos.sh",
-      "installer_sha256": "8ba0746c985350693da7893000fb832f8becc93024462f14fee71cd1039ffa22",
+      "installer_sha256": "58a5b1be7da1ea38555615e15b7f2b3d2eec1a498d854d37ef4d2c2744b56648",
       "group": "Bootlogos (Novaler)",
       "sha256": "2ba6b52346d4853a1b22c3cd2829aca7db6fb81760e86ee44cab332ae55b7423",
       "size": 636053,
@@ -49,7 +49,7 @@
     {
       "label": "openpli101-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openpli101-bootlogos.sh",
-      "installer_sha256": "561efdddeaaad06a12aa2bfe048b8b57f5e924217380c47e8dca0189abb79b80",
+      "installer_sha256": "9c841fe38738c7a084b4bc80ba542b92ad8462107e3d3416c6c16d37bc5b0d30",
       "group": "Bootlogos (Novaler)",
       "sha256": "bf26765a765c96364b83ba1606a5a4208bee4d4b2bd753a0b582f7da22444c27",
       "size": 484599,
@@ -58,7 +58,7 @@
     {
       "label": "egami-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/egami-bootlogos.sh",
-      "installer_sha256": "87086914e7ed9af48bc617b02b22ba4255e744b578fc30cf0eacaa758d00fb28",
+      "installer_sha256": "4b2704066b8ef73ec1cccd20a2d2499aafdcabf5e9cab189f897f37c2d7f5c46",
       "group": "Bootlogos (Novaler)",
       "sha256": "00f33b49ebead92bdf47cd6b4a6cffcb21e1414f83e23d5cdc60c3b4e2c6956a",
       "size": 1268142,
@@ -67,7 +67,7 @@
     {
       "label": "pure2-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/pure2-bootlogos.sh",
-      "installer_sha256": "fb63b07681490752e3ba732b525348f37df59ce34d0013b785a4decfc07a564a",
+      "installer_sha256": "f250017840df2e6d8ce9a153414e87166b070a9cd5a20d3aa486f2fe213b400d",
       "group": "Bootlogos (Novaler)",
       "sha256": "f49033101e004febefdd990d3ea2668fef6c35e848ee772cc9d6c09f42ed8ac1",
       "size": 301661,
@@ -76,7 +76,7 @@
     {
       "label": "openhdf-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openhdf-bootlogos.sh",
-      "installer_sha256": "9ea96b6f2e18dacbb72ddc2903a1ef152a4ca1343d082ae01372516d3b49c110",
+      "installer_sha256": "89991aa5bad29e4161487e8117f83f89b50a3bc5c97f2d21686eadfbd07aa9c9",
       "group": "Bootlogos (Novaler)",
       "sha256": "99cd4456441eb487374f88f5b9fd9af5e0a64bc9e1307da813e0f805e71b9fce",
       "size": 584159,
@@ -85,7 +85,7 @@
     {
       "label": "openspa-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openspa-bootlogos.sh",
-      "installer_sha256": "cf5c8bef965ed8d2fa67d8ca15fed1bd2fff2c2de2be3affad22dec8ad80d816",
+      "installer_sha256": "4ed5b70d1cbbb1d1c12309301a4b74d032ac1902f5926da18005cd3277bcb26e",
       "group": "Bootlogos (Novaler)",
       "sha256": "698bd5f4dd8d58429509313e8d67d11b5d552cd10a022f071bb281cced84cf5b",
       "size": 492942,
@@ -94,7 +94,7 @@
     {
       "label": "zukon-bootlogos",
       "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/zukon-bootlogos.sh",
-      "installer_sha256": "b2b724b032a79e9204c7e46c3ec74fb54efb9e0202b0fee44e16a58be1734465",
+      "installer_sha256": "3b6871b965761c77cbe621fbdffda96b0c784b865b95c7d2e94dc5639ea5ebf3",
       "group": "Bootlogos (Novaler)",
       "sha256": "c556aa04c9f7485f08529b879cb9efbec4e766ad6cf548565510aa6d2782a27e",
       "size": 567958,
