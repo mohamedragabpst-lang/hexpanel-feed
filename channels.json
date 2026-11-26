@@ -1,0 +1,137 @@
+{
+  "_help": "Channels sources served to HexPanel. Entry: label + url (installer .sh) or cmd. Entries without url/cmd stay hidden.",
+  "channels": [
+    {
+      "label": "wrynose-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/wrynose-channel-list.sh",
+      "installer_sha256": "2b5b72b266f9782ca92409c7237a22122cfce7dea24929315a85b255fd95e331",
+      "group": "Settings - channel lists",
+      "sha256": "b112d1377be76d0da068f34b6e8a30ec29d48a39dff9437c7513ccddf61d3e79",
+      "size": 439705,
+      "img": [
+        "openpli-wrynose"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the wrynose backup."
+    },
+    {
+      "label": "openvix-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openvix-channel-list.sh",
+      "installer_sha256": "fad38a6423b2b409c578c71ee13e2a85dcf2ca27f14889790aa40c57cbcd6e59",
+      "group": "Settings - channel lists",
+      "sha256": "53e8b6248694e1e0d047d0693d94a77968e657ea7fabef7a330be71fcdc22ad1",
+      "size": 421474,
+      "img": [
+        "openvix"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the openvix backup."
+    },
+    {
+      "label": "openbh-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openbh-channel-list.sh",
+      "installer_sha256": "5faaddac3c9dbd96302de0dc695c501a2d272cee91a3030835abe36d5e04d37f",
+      "group": "Settings - channel lists",
+      "sha256": "10d2ee2c2f791af103f7780a99f7dcfa9b72f8ad92a2c862234cd2336e7e4fb8",
+      "size": 422364,
+      "img": [
+        "openbh"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the openbh backup."
+    },
+    {
+      "label": "corvoboys-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/corvoboys-channel-list.sh",
+      "installer_sha256": "bea628a628dafe9d449a43d6ca4b14ff17b07f2f7b216445b7f2fcbae5ef8d7a",
+      "group": "Settings - channel lists",
+      "sha256": "bb9a369c981f1f64628dc3f3bc45d6eeef8775ef77ac3fca0dd8e34d4840de25",
+      "size": 415566,
+      "img": [
+        "corvoboys"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the corvoboys backup."
+    },
+    {
+      "label": "teamblue-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/teamblue-channel-list.sh",
+      "installer_sha256": "b7599f47db8ac1067031925e22e87e9c96da0f34c02c40f824f763a9ef982310",
+      "group": "Settings - channel lists",
+      "sha256": "6ea61df1d49168553b2892fd7d51ab68de63d6732831129e9ce5eab7939903b4",
+      "size": 400128,
+      "img": [
+        "teamblue"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the teamblue backup."
+    },
+    {
+      "label": "openpli101-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openpli101-channel-list.sh",
+      "installer_sha256": "e284a7e12ebbcfd79eddf5beee4665a57f0959317c61b50c4a4c8e36edeb917d",
+      "group": "Settings - channel lists",
+      "sha256": "599250b2b9e2494a85ac60719840a256c3b07e511ed0a1c6a7fefa4e85a2caf2",
+      "size": 390703,
+      "img": [
+        "openpli-10.1"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the openpli101 backup."
+    },
+    {
+      "label": "egami-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/egami-channel-list.sh",
+      "installer_sha256": "a4640b3636247dd73e842fc4feb88a89c41e70ff3bd0860e07347886dd45b151",
+      "group": "Settings - channel lists",
+      "sha256": "675718ccdddde9149ba08325edcd014b5c889f30cba23412a77b1167752555cd",
+      "size": 403630,
+      "img": [
+        "egami"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the egami backup."
+    },
+    {
+      "label": "pure2-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/pure2-channel-list.sh",
+      "installer_sha256": "9097666aa35e6541ad0dc8bd2eeeba5980b0af6b933fae43684ccff97abe355a",
+      "group": "Settings - channel lists",
+      "sha256": "8f15d0e048d8989601cd9d852201d0f2efb846cd85d31ed270c7d9c16eb48477",
+      "size": 403576,
+      "img": [
+        "pure2"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the pure2 backup."
+    },
+    {
+      "label": "openhdf-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openhdf-channel-list.sh",
+      "installer_sha256": "3c5fdbc29392e76167d7d11ce3bfb1b1e0c8fbd72bf0f5e0d762d71598c2b473",
+      "group": "Settings - channel lists",
+      "sha256": "b3564b4580bce9ed9f7707afe2a1f632f9457c7262af361248d31a1815eace72",
+      "size": 403129,
+      "img": [
+        "openhdf"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the openhdf backup."
+    },
+    {
+      "label": "openspa-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/openspa-channel-list.sh",
+      "installer_sha256": "6c5ba83ec9d6c85f5c326e344970ba5fc1e9168c099ad7826d786c5908cce3ee",
+      "group": "Settings - channel lists",
+      "sha256": "2a09837322d347346da5553bd078ba3d3cae3cef47918aa861dec2b59c47ba35",
+      "size": 396305,
+      "img": [
+        "openspa"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the openspa backup."
+    },
+    {
+      "label": "zukon-channel-list",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/zukon-channel-list.sh",
+      "installer_sha256": "48c8e565b6fec7bd71ae6e7155f4f58d0bd333df324270318cf4d85b1a6253da",
+      "group": "Settings - channel lists",
+      "sha256": "33b5e7310a4ac5d2e0d10a0e849cc7eb6e8e528c5b1ef59dccf9aa80eeae8c4b",
+      "size": 370934,
+      "img": [
+        "zukonmod"
+      ],
+      "note": "Channel list (lamedb + bouquets) as shipped in the zukon backup."
+    }
+  ]
+}

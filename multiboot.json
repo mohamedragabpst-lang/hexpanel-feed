@@ -1,0 +1,4 @@
+{
+  "_help": "Multiboot plugins served to HexPanel. Entry: label + url (installer .sh) or cmd. Entries without url/cmd stay hidden.",
+  "multiboot": []
+}

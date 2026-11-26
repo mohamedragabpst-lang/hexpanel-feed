@@ -29,6 +29,501 @@
       "label": "Fury FHD",
       "url": "",
       "note": "Installer script - pending inspection."
+    },
+    {
+      "label": "Aglare-FHD-PLI",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.sh",
+      "installer_sha256": "0dc42c0984b6aa9c8f07ca259a465e1ee40a3dd4c3a84cf64e2798d97c246afb",
+      "res": "fhd",
+      "group": "Skins - openpli-wrynose",
+      "img": [
+        "openpli-wrynose"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from wrynose backup. Usually works on other pli images too.",
+      "size": 8327537,
+      "sha256": "7c64933416ae4ddad798ee366eebe128ad067bfe559f1a41b77f59408a1c26eb"
+    },
+    {
+      "label": "E2-DarkOS",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/E2-DarkOS.sh",
+      "installer_sha256": "6b3b35f7535a15ee5a2567b73e60d974e16ef6ea26f1b1df65a3a2478b53c989",
+      "res": "fhd",
+      "group": "Skins - openpli-wrynose",
+      "img": [
+        "openpli-wrynose"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from wrynose backup. Usually works on other pli images too.",
+      "size": 3939266,
+      "sha256": "3e98316a78f2f8a0fd75cdb7b1e879566fef0de58865aef060a095ed8bcc141b"
+    },
+    {
+      "label": "SimpleGray-FHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/SimpleGray-FHD.sh",
+      "installer_sha256": "ea8d88cf7cfd7cfb79a6dbc79a2b386164e5e5d8aed9a5512c7a089552086b55",
+      "res": "fhd",
+      "group": "Skins - openpli-wrynose",
+      "img": [
+        "openpli-wrynose"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from wrynose backup. Usually works on other pli images too.",
+      "size": 214059,
+      "sha256": "65a8a5684c8aac1c6ab3917ccbe1fbe80804887471a82d0cbb7e6a6e9ee3971a"
+    },
+    {
+      "label": "Aglare-FHD-PLI",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.sh",
+      "installer_sha256": "46f655a5d072555a470ef3ee7e32c9f000ac21b729318c8ddfb093d84b1fa590",
+      "res": "fhd",
+      "group": "Skins - openvix",
+      "img": [
+        "openvix"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openvix backup. Usually works on other oe-a images too.",
+      "size": 9502678,
+      "sha256": "43f009afc40a279de3beda94272a3f612180f06bf4db6e7a4b7ec42803606a64"
+    },
+    {
+      "label": "Simple_Ten_Eighty",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Simple_Ten_Eighty.sh",
+      "installer_sha256": "85f98cf09aacd0ec50ccb8a341d3088e24c0882a70abe186eed0bf73b283dff3",
+      "res": "fhd",
+      "group": "Skins - openvix",
+      "img": [
+        "openvix"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openvix backup. Usually works on other oe-a images too.",
+      "size": 1143191,
+      "sha256": "b7e3a9aba1aabd989053cef22bdd89c7bebe47ed40899089467b7b5b6b8578f1"
+    },
+    {
+      "label": "ViXBMC_1080_Bello",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/ViXBMC_1080_Bello.sh",
+      "installer_sha256": "2366af6e2b5259681912b2ebb97dbb8225d868861bb0cf697553138507f620ef",
+      "res": "fhd",
+      "group": "Skins - openvix",
+      "img": [
+        "openvix"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openvix backup. Usually works on other oe-a images too.",
+      "size": 4830175,
+      "sha256": "d84b90c545ead1245ea8d44563b0b6d1484f103258da2b1882f56db3e5f1109f"
+    },
+    {
+      "label": "ViXBMC_1080_Common",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/ViXBMC_1080_Common.sh",
+      "installer_sha256": "ab868536df009a53a7a53fd6b88271cc519945200ac433237bb517b47d7468c3",
+      "res": "fhd",
+      "group": "Skins - openvix",
+      "img": [
+        "openvix"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openvix backup. Usually works on other oe-a images too.",
+      "size": 1588337,
+      "sha256": "a8326359ddd36430e0dc9713284d56c31052a3ac50f3179120f5c522dd0deade"
+    },
+    {
+      "label": "Aglare-FHD-PLI",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.sh",
+      "installer_sha256": "57223d311e592b693d50c98585003ad33eadc331f4cac5f91e6ff07e7a0804f2",
+      "res": "fhd",
+      "group": "Skins - openbh",
+      "img": [
+        "openbh"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openbh backup. Usually works on other oe-a images too.",
+      "size": 9356650,
+      "sha256": "3e388696a29bddad59a41c229531585f44cd6c1af5f1c3b23a7ab92707e762eb"
+    },
+    {
+      "label": "MX_HQ10",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/MX_HQ10.sh",
+      "installer_sha256": "f6da3d031beb1b21d561a880ee7f03a538c8a717138db768595144c9980f07dc",
+      "res": "fhd",
+      "group": "Skins - openbh",
+      "img": [
+        "openbh"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openbh backup. Usually works on other oe-a images too.",
+      "size": 1956727,
+      "sha256": "fa7e8f99641111f0c1fbf05c3717615492e309051433110d03ca961f4d19a467"
+    },
+    {
+      "label": "MX_SilverLight_P",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/MX_SilverLight_P.sh",
+      "installer_sha256": "8a709a2df1826f593ffec71e82d9fcd5cebd8a5be676bca2827272ca1d0d7253",
+      "res": "fhd",
+      "group": "Skins - openbh",
+      "img": [
+        "openbh"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openbh backup. Usually works on other oe-a images too.",
+      "size": 1680402,
+      "sha256": "fd2f6e4040e07acb2576d79d31d575d29735c62149fe8842f17f793deeef980a"
+    },
+    {
+      "label": "MX_Slim-Line_NP",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/MX_Slim-Line_NP.sh",
+      "installer_sha256": "5b26280c159779508739174974e6efb03e3666439db1a168aa25178beeb5aa7a",
+      "res": "fhd",
+      "group": "Skins - openbh",
+      "img": [
+        "openbh"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openbh backup. Usually works on other oe-a images too.",
+      "size": 2364707,
+      "sha256": "8d968ba3f8aa0db712f6ee87dd556629c9671f2da97f3a0e2f285da182e6d6d0"
+    },
+    {
+      "label": "Aglare-FHD-PLI",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.sh",
+      "installer_sha256": "a27e4e8ea83450f614678021be1d2ca168083a370136c0cb032c39998cfe1591",
+      "res": "fhd",
+      "group": "Skins - corvoboys",
+      "img": [
+        "corvoboys"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from corvoboys backup. Usually works on other pli images too.",
+      "size": 20282025,
+      "sha256": "55bd2c1f4425b6176cd4a43cf979e30eca5cbc363407c09c0587530d5cda4801"
+    },
+    {
+      "label": "pDreamy-FHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/pDreamy-FHD.sh",
+      "installer_sha256": "df67bd58887f35c02bcd97666ed559a8074b4b0fe23b2bcf00bbab8087594b05",
+      "res": "fhd",
+      "group": "Skins - corvoboys",
+      "img": [
+        "corvoboys"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from corvoboys backup. Usually works on other pli images too.",
+      "size": 3352783,
+      "sha256": "c08b8564234d2a04fb4c8cac65ea245b5aa516bdd0a0d53d3033b404164df7a1"
+    },
+    {
+      "label": "GigabluePaxV2",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/GigabluePaxV2.sh",
+      "installer_sha256": "d82efe210d98543d4e711b139580787a6d3c3ad8c487c914ec0d5e7d7ebf5315",
+      "res": "fhd",
+      "group": "Skins - teamblue",
+      "img": [
+        "teamblue"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from teamblue backup. Usually works on other oe-a images too.",
+      "size": 8622670,
+      "sha256": "bd1880a34a944d3a0ff2ed2e4345e5caa486f88a3127d9dfeea209e5fdf9f9a7"
+    },
+    {
+      "label": "KravenHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/KravenHD.sh",
+      "installer_sha256": "e196a2e397222cf1c53ff5abb7637cc9095f2709f16319582f74d228c1f201c7",
+      "res": "fhd",
+      "group": "Skins - teamblue",
+      "img": [
+        "teamblue"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from teamblue backup. Usually works on other oe-a images too.",
+      "size": 2567018,
+      "sha256": "e05d9b7f0d990c0837c6bdd5266d7ec94fb2f2d1cd2bdb2878275be62d543f75"
+    },
+    {
+      "label": "Aglare-FHD-PLI",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Aglare-FHD-PLI.sh",
+      "installer_sha256": "af459aa36e68095531677223770577ca673c16e3cb5f406a1aafa7ac94fb5cf4",
+      "res": "fhd",
+      "group": "Skins - openpli-10.1",
+      "img": [
+        "openpli-10.1"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from openpli101 backup. Usually works on other pli images too.",
+      "size": 8235816,
+      "sha256": "7570cdf78054d653d1f6b357b713eb9468db39bd140a212e3494387bbb72b607"
+    },
+    {
+      "label": "E2-DarkOS",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/E2-DarkOS.sh",
+      "installer_sha256": "737efbeb62b17fb3b43fc360c2e7d18208a0ef31f37562b0dbb2dcc33054aa7c",
+      "res": "fhd",
+      "group": "Skins - openpli-10.1",
+      "img": [
+        "openpli-10.1"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from openpli101 backup. Usually works on other pli images too.",
+      "size": 3936524,
+      "sha256": "d0e6c50027fd811da56ea548164c963e800fd51348ed8b071ee7278fba1cbde1"
+    },
+    {
+      "label": "Luka-FHD-PLI",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Luka-FHD-PLI.sh",
+      "installer_sha256": "f6e64feeda40b1b75c1d2f9a503eb495bec0fb739f844bd9cc361bbd526c50a9",
+      "res": "fhd",
+      "group": "Skins - openpli-10.1",
+      "img": [
+        "openpli-10.1"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from openpli101 backup. Usually works on other pli images too.",
+      "size": 16053756,
+      "sha256": "cbdf71a4a9a5b8ac01901725545e8298d4a2c8fdfc8a24f91aa25fc135725e97"
+    },
+    {
+      "label": "SimpleGray-FHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/SimpleGray-FHD.sh",
+      "installer_sha256": "6e3f35286e14e8052b4ef21c015767df06d01a15d49b97951aba2241ffbb74ef",
+      "res": "fhd",
+      "group": "Skins - openpli-10.1",
+      "img": [
+        "openpli-10.1"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from openpli101 backup. Usually works on other pli images too.",
+      "size": 214059,
+      "sha256": "f60d77f01ec7a05ba111f23a512a60e943430ebba87c2dfeae6601fca7b19d27"
+    },
+    {
+      "label": "pDreamy-FHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/pDreamy-FHD.sh",
+      "installer_sha256": "92f28dfae2fdacc4a2c3e69cd1aede7de3143e4606074cb26ca74f3d82ce3cce",
+      "res": "fhd",
+      "group": "Skins - openpli-10.1",
+      "img": [
+        "openpli-10.1"
+      ],
+      "py": "3",
+      "fam": "pli",
+      "note": "Extracted from openpli101 backup. Usually works on other pli images too.",
+      "size": 3352859,
+      "sha256": "7962b30e87b381403109b5c687239aecdd52730b5b5c060cdeeae558e1a6caa2"
+    },
+    {
+      "label": "Luka-FHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Luka-FHD.sh",
+      "installer_sha256": "bdc8ffb9f744ff47d566714a77c4ff61829163e2f68fb209cb22e05a3afd6763",
+      "res": "fhd",
+      "group": "Skins - egami",
+      "img": [
+        "egami"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from egami backup. Usually works on other oe-a images too.",
+      "size": 14855697,
+      "sha256": "1c19116b0913fd9e569ce2fc99d43a09203b26c17ced3aa8dd78e6e96c848517"
+    },
+    {
+      "label": "egami_skin_default",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/egami_skin_default.sh",
+      "installer_sha256": "5882f569fbc8b4b779dff3142790edc5600c467ca43530740a9dfe3499d42e1b",
+      "res": "fhd",
+      "group": "Skins - egami",
+      "img": [
+        "egami"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from egami backup. Usually works on other oe-a images too.",
+      "size": 29563,
+      "sha256": "96266b131f7e17bf6d27cec8d8e0b4bc5be44266996e34a276680c53f4e19ffc"
+    },
+    {
+      "label": "oDreamy-FHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/oDreamy-FHD.sh",
+      "installer_sha256": "207abfd6786f3f127ef1cb1a3db748ede962678d6741fbc18cda355a03eeeb1a",
+      "res": "fhd",
+      "group": "Skins - egami",
+      "img": [
+        "egami"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from egami backup. Usually works on other oe-a images too.",
+      "size": 4118395,
+      "sha256": "455de5d779184349e15ad4cb54c4ff177308c48fa8dc77f5e2cdc5fa402dbd9c"
+    },
+    {
+      "label": "oDreamy-FHD-Mini",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/oDreamy-FHD-Mini.sh",
+      "installer_sha256": "713afd47e9d2df3c39ffb40329348aadbd7e98cbe7f7bf75e805ee5cd02f460a",
+      "res": "fhd",
+      "group": "Skins - egami",
+      "img": [
+        "egami"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from egami backup. Usually works on other oe-a images too.",
+      "size": 252906,
+      "sha256": "f4bcd1240a66a4f74682f04a1ef0c37ef7816a911202a55629084c69a5b51604"
+    },
+    {
+      "label": "Estuary",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/Estuary.sh",
+      "installer_sha256": "372ae1ab4a5324f962d2f8b73381c777612c025024163dd5054d92c73912dc25",
+      "res": "fhd",
+      "group": "Skins - pure2",
+      "img": [
+        "pure2"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from pure2 backup. Usually works on other oe-a images too.",
+      "size": 4535790,
+      "sha256": "baa9562aadaefbf346765650d37a228deb93930b0f1d1fec2fc536de21467682"
+    },
+    {
+      "label": "oDreamy-FHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/oDreamy-FHD.sh",
+      "installer_sha256": "2130bb248b192f0791b7599e72735db4f5544a5babe4d1fbea038fb086843550",
+      "res": "fhd",
+      "group": "Skins - pure2",
+      "img": [
+        "pure2"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from pure2 backup. Usually works on other oe-a images too.",
+      "size": 11445868,
+      "sha256": "9d5f1f333d290560f542ff0074ee5219646b36b1b30c0cbe577a4ecfc9ee16fd"
+    },
+    {
+      "label": "XionHDF",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/XionHDF.sh",
+      "installer_sha256": "da07a592d479f17c3417a98e35d9d5a1f5f798518a07a51b2f6a90e4b7003143",
+      "res": "fhd",
+      "group": "Skins - openhdf",
+      "img": [
+        "openhdf"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openhdf backup. Usually works on other oe-a images too.",
+      "size": 2542275,
+      "sha256": "3e4fae0511f38adadd1d37f5f9c5937983cc459379b451d621f76268dd76db2e"
+    },
+    {
+      "label": "OctEtFHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/OctEtFHD.sh",
+      "installer_sha256": "3f2b1a3c86413cd61334bd5265948bd8599fd293b8e7bbb3bf0d8fad4d206995",
+      "res": "fhd",
+      "group": "Skins - openspa",
+      "img": [
+        "openspa"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from openspa backup. Usually works on other oe-a images too.",
+      "size": 2119118,
+      "sha256": "abf666643a8a491dceb7a0873d015027389d2edcb084574ea1426795d55aae30"
+    },
+    {
+      "label": "BlackHarmony",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/BlackHarmony.sh",
+      "installer_sha256": "8077cc0d4cbb5f64d4e70e0b06be28ba3d185105aab0b44ab145ef700d400534",
+      "res": "fhd",
+      "group": "Skins - zukonmod",
+      "img": [
+        "zukonmod"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from zukon backup. Usually works on other oe-a images too.",
+      "size": 23673800,
+      "sha256": "1a629eef3e9e54cf2abeef678f8d734b105f62ee97087056685fa73ed2f2a547"
+    },
+    {
+      "label": "DarkFHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/DarkFHD.sh",
+      "installer_sha256": "ddb3363e1c50f3ac6d7da1ea94f45f915d348c6f8bb3c6cf9165be7cb601df56",
+      "res": "fhd",
+      "group": "Skins - zukonmod",
+      "img": [
+        "zukonmod"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from zukon backup. Usually works on other oe-a images too.",
+      "size": 3493473,
+      "sha256": "6497e92eb9db0911bb20982e26c5eac0b65c336f8563b8bd9fec8ee94e591371"
+    },
+    {
+      "label": "FullHDLine",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/FullHDLine.sh",
+      "installer_sha256": "dee13d7a90e7997dbb51bf09113b3b0813a4a2dfb0b6e2721e228974fea3ee97",
+      "res": "fhd",
+      "group": "Skins - zukonmod",
+      "img": [
+        "zukonmod"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from zukon backup. Usually works on other oe-a images too.",
+      "size": 8382618,
+      "sha256": "586e2cef014ebeb428faa956c5492190497f485dd19d1b6d722f61e34c0b3f87"
+    },
+    {
+      "label": "PKT_RedHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/PKT_RedHD.sh",
+      "installer_sha256": "17ee1cbfb7efcfb22920a72eb309bf007d9eab02da4407ebd6552efa38630bb8",
+      "res": "fhd",
+      "group": "Skins - zukonmod",
+      "img": [
+        "zukonmod"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from zukon backup. Usually works on other oe-a images too.",
+      "size": 184024,
+      "sha256": "5e536bc4018d6f7465bf821aff4ab80ae5edd194c17e650a2fcf54a3013fbcb8"
+    },
+    {
+      "label": "PKT_SilverHD",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/PKT_SilverHD.sh",
+      "installer_sha256": "45e17b906b7ba4e43362ab839a19a4c34cfe1ae78055b782422875fc434d4e7a",
+      "res": "fhd",
+      "group": "Skins - zukonmod",
+      "img": [
+        "zukonmod"
+      ],
+      "py": "3",
+      "fam": "oe-a",
+      "note": "Extracted from zukon backup. Usually works on other oe-a images too.",
+      "size": 1931588,
+      "sha256": "b85c7ac13dfd6190442c64a40a855f07199977feb4cc16bc3058b0b553662b6d"
     }
   ]
 }

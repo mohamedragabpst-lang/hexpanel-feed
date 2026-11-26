@@ -1,0 +1,4 @@
+{
+  "_help": "Panels served to HexPanel. Entry: label + url (installer .sh) or cmd. Optional: note, sha256, arch, py, res, img, pkg. Entries without url/cmd stay hidden.",
+  "panels": []
+}

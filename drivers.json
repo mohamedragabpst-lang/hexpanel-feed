@@ -1,0 +1,14 @@
+{
+  "_help": "Driver packs served to HexPanel. Entry: label + url (installer .sh) or cmd. Entries without url/cmd stay hidden.",
+  "drivers": [
+    {
+      "label": "novaler4kpro-modules-4.4.35",
+      "url": "https://raw.githubusercontent.com/mohamedragabpst-lang/hexpanel-feed/main/installers/novaler4kpro-modules-4.4.35.sh",
+      "installer_sha256": "c89ef08895e54de5769b127074b88bafb9002738bbe5aa76c13b6787deff3894",
+      "group": "Drivers (Novaler)",
+      "sha256": "7a476e3d917bb650a72b45b7578c6711f23601755ba1110431babc95707f03e5",
+      "size": 12439332,
+      "novaler": true
+    }
+  ]
+}

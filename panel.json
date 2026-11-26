@@ -1,5 +1,4 @@
 {
-  "_help": "HexPanel update info. version = latest panel version, ipk = download URL (empty = no hosted build yet).",
   "version": "1.2",
   "ipk": ""
 }
