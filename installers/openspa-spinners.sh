@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openspa-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/openspa-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openspa-spinners.tar.gz"
 SHA="be49633f1a68b427d289ba095eb6f050fa5437b3c72e8e292e8cffd78cb6ba37"
 DEST="/usr/share/enigma2"
 NEED_KB=10251

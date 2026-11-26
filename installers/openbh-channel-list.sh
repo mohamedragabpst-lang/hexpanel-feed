@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openbh-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/openbh-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openbh-channel-list.tar.gz"
 SHA="10d2ee2c2f791af103f7780a99f7dcfa9b72f8ad92a2c862234cd2336e7e4fb8"
 DEST="/etc/enigma2"
 NEED_KB=11064

@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: corvoboys-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/corvoboys-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/corvoboys-channel-list.tar.gz"
 SHA="bb9a369c981f1f64628dc3f3bc45d6eeef8775ef77ac3fca0dd8e34d4840de25"
 DEST="/etc/enigma2"
 NEED_KB=11051

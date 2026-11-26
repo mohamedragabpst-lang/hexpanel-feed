@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: pure2-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/pure2-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/pure2-channel-list.tar.gz"
 SHA="8f15d0e048d8989601cd9d852201d0f2efb846cd85d31ed270c7d9c16eb48477"
 DEST="/etc/enigma2"
 NEED_KB=11028

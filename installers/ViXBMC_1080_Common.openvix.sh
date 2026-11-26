@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: ViXBMC_1080_Common.openvix
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openvix/ViXBMC_1080_Common.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/ViXBMC_1080_Common.openvix.tar.gz"
 SHA="a8326359ddd36430e0dc9713284d56c31052a3ac50f3179120f5c522dd0deade"
 DEST="/usr/share/enigma2"
 NEED_KB=13342

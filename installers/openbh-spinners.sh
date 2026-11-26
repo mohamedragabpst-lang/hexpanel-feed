@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openbh-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/openbh-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openbh-spinners.tar.gz"
 SHA="5bb7f820be74b2839d6276f330192aa2fd6e31388af1567bba4e9d1100e6e2a6"
 DEST="/usr/share/enigma2"
 NEED_KB=10407

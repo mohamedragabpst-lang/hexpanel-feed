@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: wrynose-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/wrynose-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/wrynose-spinners.tar.gz"
 SHA="66a3be29e9d27824c489b39bc048aab0a7185b28dfde572cf7fac4426a210e3b"
 DEST="/usr/share/enigma2"
 NEED_KB=10303

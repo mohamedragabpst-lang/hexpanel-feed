@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openvix-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/openvix-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openvix-bootlogos.tar.gz"
 SHA="ea2d933d3c77f0f514597e0ae07f560a0cc07972588482b829616acddc9c07d3"
 DEST="/"
 NEED_KB=12740

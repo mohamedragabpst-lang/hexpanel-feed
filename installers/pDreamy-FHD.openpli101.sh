@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: pDreamy-FHD.openpli101
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openpli101/pDreamy-FHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/pDreamy-FHD.openpli101.tar.gz"
 SHA="7962b30e87b381403109b5c687239aecdd52730b5b5c060cdeeae558e1a6caa2"
 DEST="/usr/share/enigma2"
 NEED_KB=16788

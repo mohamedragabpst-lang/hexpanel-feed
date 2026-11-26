@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: MX_Slim-Line_NP.openbh
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openbh/MX_Slim-Line_NP.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/MX_Slim-Line_NP.openbh.tar.gz"
 SHA="8d968ba3f8aa0db712f6ee87dd556629c9671f2da97f3a0e2f285da182e6d6d0"
 DEST="/usr/share/enigma2"
 NEED_KB=14858

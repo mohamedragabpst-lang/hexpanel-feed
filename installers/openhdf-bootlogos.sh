@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openhdf-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/openhdf-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openhdf-bootlogos.tar.gz"
 SHA="99cd4456441eb487374f88f5b9fd9af5e0a64bc9e1307da813e0f805e71b9fce"
 DEST="/"
 NEED_KB=11380

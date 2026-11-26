@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: corvoboys-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/corvoboys-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/corvoboys-spinners.tar.gz"
 SHA="53dd352434c46ec9d46218f0e438797141904e4eb8c41df30bec48cc51f48423"
 DEST="/usr/share/enigma2"
 NEED_KB=10284

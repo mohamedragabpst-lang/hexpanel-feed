@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: wrynose-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/wrynose-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/wrynose-bootlogos.tar.gz"
 SHA="9b22d3b9b20fdd83a336be424ac3c85f8f1f64a61fbbe0069ea5049775ac9334"
 DEST="/"
 NEED_KB=11344

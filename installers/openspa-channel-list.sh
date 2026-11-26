@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openspa-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/openspa-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openspa-channel-list.tar.gz"
 SHA="2a09837322d347346da5553bd078ba3d3cae3cef47918aa861dec2b59c47ba35"
 DEST="/etc/enigma2"
 NEED_KB=11014

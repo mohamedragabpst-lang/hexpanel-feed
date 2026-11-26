@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: pDreamy-FHD.corvoboys
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/corvoboys/pDreamy-FHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/pDreamy-FHD.corvoboys.tar.gz"
 SHA="c08b8564234d2a04fb4c8cac65ea245b5aa516bdd0a0d53d3033b404164df7a1"
 DEST="/usr/share/enigma2"
 NEED_KB=16788

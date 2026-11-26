@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openpli101-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/openpli101-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openpli101-bootlogos.tar.gz"
 SHA="bf26765a765c96364b83ba1606a5a4208bee4d4b2bd753a0b582f7da22444c27"
 DEST="/"
 NEED_KB=11186

@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: SimpleGray-FHD.wrynose
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/wrynose/SimpleGray-FHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/SimpleGray-FHD.wrynose.tar.gz"
 SHA="65a8a5684c8aac1c6ab3917ccbe1fbe80804887471a82d0cbb7e6a6e9ee3971a"
 DEST="/usr/share/enigma2"
 NEED_KB=10658

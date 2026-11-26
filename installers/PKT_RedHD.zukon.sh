@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: PKT_RedHD.zukon
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/zukon/PKT_RedHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/PKT_RedHD.zukon.tar.gz"
 SHA="5e536bc4018d6f7465bf821aff4ab80ae5edd194c17e650a2fcf54a3013fbcb8"
 DEST="/usr/share/enigma2"
 NEED_KB=10599

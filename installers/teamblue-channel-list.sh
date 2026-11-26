@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: teamblue-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/teamblue-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/teamblue-channel-list.tar.gz"
 SHA="6ea61df1d49168553b2892fd7d51ab68de63d6732831129e9ce5eab7939903b4"
 DEST="/etc/enigma2"
 NEED_KB=11021

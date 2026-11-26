@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openpli101-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/openpli101-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openpli101-spinners.tar.gz"
 SHA="119ca5a484891a55fd4424dea152d3a9a2cc8bf5a343e63d4f8ff344d7aec541"
 DEST="/usr/share/enigma2"
 NEED_KB=10303

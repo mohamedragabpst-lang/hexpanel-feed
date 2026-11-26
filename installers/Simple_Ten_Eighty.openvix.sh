@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: Simple_Ten_Eighty.openvix
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openvix/Simple_Ten_Eighty.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/Simple_Ten_Eighty.openvix.tar.gz"
 SHA="b7e3a9aba1aabd989053cef22bdd89c7bebe47ed40899089467b7b5b6b8578f1"
 DEST="/usr/share/enigma2"
 NEED_KB=12472

@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: wrynose-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/wrynose-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/wrynose-channel-list.tar.gz"
 SHA="b112d1377be76d0da068f34b6e8a30ec29d48a39dff9437c7513ccddf61d3e79"
 DEST="/etc/enigma2"
 NEED_KB=11098

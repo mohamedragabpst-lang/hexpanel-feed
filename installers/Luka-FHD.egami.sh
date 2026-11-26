@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: Luka-FHD.egami
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/egami/Luka-FHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/Luka-FHD.egami.tar.gz"
 SHA="1c19116b0913fd9e569ce2fc99d43a09203b26c17ced3aa8dd78e6e96c848517"
 DEST="/usr/share/enigma2"
 NEED_KB=39255

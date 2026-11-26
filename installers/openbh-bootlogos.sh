@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openbh-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/openbh-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openbh-bootlogos.tar.gz"
 SHA="120fb8a432c896eead97bd52259c2d810674ed4639e89385df20ac843c85d7e6"
 DEST="/"
 NEED_KB=12242

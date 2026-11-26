@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openvix-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/openvix-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openvix-spinners.tar.gz"
 SHA="c53d2df27793b94a3871222813aa28f1293fdb9c1c69c78bda6ef7930df6fa6b"
 DEST="/usr/share/enigma2"
 NEED_KB=10411

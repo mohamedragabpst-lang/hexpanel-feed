@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: egami-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/egami-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/egami-bootlogos.tar.gz"
 SHA="00f33b49ebead92bdf47cd6b4a6cffcb21e1414f83e23d5cdc60c3b4e2c6956a"
 DEST="/"
 NEED_KB=12716

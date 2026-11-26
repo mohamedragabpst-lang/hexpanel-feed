@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openspa-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/openspa-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openspa-bootlogos.tar.gz"
 SHA="698bd5f4dd8d58429509313e8d67d11b5d552cd10a022f071bb281cced84cf5b"
 DEST="/"
 NEED_KB=11202

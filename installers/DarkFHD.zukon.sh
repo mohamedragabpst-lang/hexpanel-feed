@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: DarkFHD.zukon
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/zukon/DarkFHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/DarkFHD.zukon.tar.gz"
 SHA="6497e92eb9db0911bb20982e26c5eac0b65c336f8563b8bd9fec8ee94e591371"
 DEST="/usr/share/enigma2"
 NEED_KB=17063

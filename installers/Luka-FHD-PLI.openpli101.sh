@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: Luka-FHD-PLI.openpli101
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openpli101/Luka-FHD-PLI.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/Luka-FHD-PLI.openpli101.tar.gz"
 SHA="cbdf71a4a9a5b8ac01901725545e8298d4a2c8fdfc8a24f91aa25fc135725e97"
 DEST="/usr/share/enigma2"
 NEED_KB=41594

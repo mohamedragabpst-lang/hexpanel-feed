@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openvix-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/openvix-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openvix-channel-list.tar.gz"
 SHA="53e8b6248694e1e0d047d0693d94a77968e657ea7fabef7a330be71fcdc22ad1"
 DEST="/etc/enigma2"
 NEED_KB=11063

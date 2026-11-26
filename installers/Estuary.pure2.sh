@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: Estuary.pure2
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/pure2/Estuary.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/Estuary.pure2.tar.gz"
 SHA="baa9562aadaefbf346765650d37a228deb93930b0f1d1fec2fc536de21467682"
 DEST="/usr/share/enigma2"
 NEED_KB=19098

@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: PKT_SilverHD.zukon
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/zukon/PKT_SilverHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/PKT_SilverHD.zukon.tar.gz"
 SHA="b85c7ac13dfd6190442c64a40a855f07199977feb4cc16bc3058b0b553662b6d"
 DEST="/usr/share/enigma2"
 NEED_KB=14012

@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: XionHDF.openhdf
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openhdf/XionHDF.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/XionHDF.openhdf.tar.gz"
 SHA="3e4fae0511f38adadd1d37f5f9c5937983cc459379b451d621f76268dd76db2e"
 DEST="/usr/share/enigma2"
 NEED_KB=15205

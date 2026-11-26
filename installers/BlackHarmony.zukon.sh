@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: BlackHarmony.zukon
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/zukon/BlackHarmony.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/BlackHarmony.zukon.tar.gz"
 SHA="1a629eef3e9e54cf2abeef678f8d734b105f62ee97087056685fa73ed2f2a547"
 DEST="/usr/share/enigma2"
 NEED_KB=56477

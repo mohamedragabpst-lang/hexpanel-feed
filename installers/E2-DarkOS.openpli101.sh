@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: E2-DarkOS.openpli101
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openpli101/E2-DarkOS.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/E2-DarkOS.openpli101.tar.gz"
 SHA="d0e6c50027fd811da56ea548164c963e800fd51348ed8b071ee7278fba1cbde1"
 DEST="/usr/share/enigma2"
 NEED_KB=17928

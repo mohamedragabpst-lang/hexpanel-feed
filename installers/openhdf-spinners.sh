@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openhdf-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/openhdf-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openhdf-spinners.tar.gz"
 SHA="5926d9bc1f21c09cd295be014831b71e2ad7aa4e0e904a217ec5fd9a1a4bd1c4"
 DEST="/usr/share/enigma2"
 NEED_KB=10396

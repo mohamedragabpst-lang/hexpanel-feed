@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: Aglare-FHD-PLI.openvix
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openvix/Aglare-FHD-PLI.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/Aglare-FHD-PLI.openvix.tar.gz"
 SHA="43f009afc40a279de3beda94272a3f612180f06bf4db6e7a4b7ec42803606a64"
 DEST="/usr/share/enigma2"
 NEED_KB=28799

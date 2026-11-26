@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: teamblue-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/teamblue-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/teamblue-spinners.tar.gz"
 SHA="39223b9b752e89b75d02cc915ff61f70daa993b165d1c32b17407dd7a7f9f098"
 DEST="/usr/share/enigma2"
 NEED_KB=10249

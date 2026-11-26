@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: zukon-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/zukon-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/zukon-channel-list.tar.gz"
 SHA="33b5e7310a4ac5d2e0d10a0e849cc7eb6e8e528c5b1ef59dccf9aa80eeae8c4b"
 DEST="/etc/enigma2"
 NEED_KB=10964

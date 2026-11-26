@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: MX_HQ10.openbh
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openbh/MX_HQ10.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/MX_HQ10.openbh.tar.gz"
 SHA="fa7e8f99641111f0c1fbf05c3717615492e309051433110d03ca961f4d19a467"
 DEST="/usr/share/enigma2"
 NEED_KB=14061

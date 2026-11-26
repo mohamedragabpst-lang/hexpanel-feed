@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: E2-DarkOS.wrynose
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/wrynose/E2-DarkOS.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/E2-DarkOS.wrynose.tar.gz"
 SHA="3e98316a78f2f8a0fd75cdb7b1e879566fef0de58865aef060a095ed8bcc141b"
 DEST="/usr/share/enigma2"
 NEED_KB=17933

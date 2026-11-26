@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: GigabluePaxV2.teamblue
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/teamblue/GigabluePaxV2.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/GigabluePaxV2.teamblue.tar.gz"
 SHA="bd1880a34a944d3a0ff2ed2e4345e5caa486f88a3127d9dfeea209e5fdf9f9a7"
 DEST="/usr/share/enigma2"
 NEED_KB=27081

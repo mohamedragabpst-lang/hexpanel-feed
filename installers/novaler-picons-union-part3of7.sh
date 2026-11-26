@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: novaler-picons-union-part3of7
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/picons/novaler-picons-union-part3of7.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/novaler-picons-union-part3of7.tar.gz"
 SHA="0da6451dd9e0637bf5a98f37ce5e5e506d9154ff4462f72c9e5071ba416ba992"
 DEST="/usr/share/enigma2/picon"
 NEED_KB=37052

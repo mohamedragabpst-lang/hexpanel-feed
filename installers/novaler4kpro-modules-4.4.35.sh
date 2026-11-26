@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: novaler4kpro-modules-4.4.35
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/drivers/novaler4kpro-modules-4.4.35.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/novaler4kpro-modules-4.4.35.tar.gz"
 SHA="7a476e3d917bb650a72b45b7578c6711f23601755ba1110431babc95707f03e5"
 DEST="/lib/modules"
 NEED_KB=34535

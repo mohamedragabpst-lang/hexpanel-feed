@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: teamblue-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/teamblue-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/teamblue-bootlogos.tar.gz"
 SHA="2ba6b52346d4853a1b22c3cd2829aca7db6fb81760e86ee44cab332ae55b7423"
 DEST="/"
 NEED_KB=11482

@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: KravenHD.teamblue
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/teamblue/KravenHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/KravenHD.teamblue.tar.gz"
 SHA="e05d9b7f0d990c0837c6bdd5266d7ec94fb2f2d1cd2bdb2878275be62d543f75"
 DEST="/usr/share/enigma2"
 NEED_KB=15253

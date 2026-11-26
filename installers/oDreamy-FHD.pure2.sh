@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: oDreamy-FHD.pure2
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/pure2/oDreamy-FHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/oDreamy-FHD.pure2.tar.gz"
 SHA="9d5f1f333d290560f542ff0074ee5219646b36b1b30c0cbe577a4ecfc9ee16fd"
 DEST="/usr/share/enigma2"
 NEED_KB=32595

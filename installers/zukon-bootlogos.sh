@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: zukon-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/zukon-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/zukon-bootlogos.tar.gz"
 SHA="c556aa04c9f7485f08529b879cb9efbec4e766ad6cf548565510aa6d2782a27e"
 DEST="/"
 NEED_KB=11349

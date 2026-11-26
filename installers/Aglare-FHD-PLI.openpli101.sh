@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: Aglare-FHD-PLI.openpli101
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openpli101/Aglare-FHD-PLI.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/Aglare-FHD-PLI.openpli101.tar.gz"
 SHA="7570cdf78054d653d1f6b357b713eb9468db39bd140a212e3494387bbb72b607"
 DEST="/usr/share/enigma2"
 NEED_KB=26325

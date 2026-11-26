@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: Aglare-FHD-PLI.wrynose
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/wrynose/Aglare-FHD-PLI.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/Aglare-FHD-PLI.wrynose.tar.gz"
 SHA="7c64933416ae4ddad798ee366eebe128ad067bfe559f1a41b77f59408a1c26eb"
 DEST="/usr/share/enigma2"
 NEED_KB=26504

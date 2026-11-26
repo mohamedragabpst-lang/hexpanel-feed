@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: Aglare-FHD-PLI.corvoboys
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/corvoboys/Aglare-FHD-PLI.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/Aglare-FHD-PLI.corvoboys.tar.gz"
 SHA="55bd2c1f4425b6176cd4a43cf979e30eca5cbc363407c09c0587530d5cda4801"
 DEST="/usr/share/enigma2"
 NEED_KB=49853

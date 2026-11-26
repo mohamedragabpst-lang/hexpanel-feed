@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: SimpleGray-FHD.openpli101
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openpli101/SimpleGray-FHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/SimpleGray-FHD.openpli101.tar.gz"
 SHA="f60d77f01ec7a05ba111f23a512a60e943430ebba87c2dfeae6601fca7b19d27"
 DEST="/usr/share/enigma2"
 NEED_KB=10658

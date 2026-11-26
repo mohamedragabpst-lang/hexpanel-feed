@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: openpli101-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/openpli101-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/openpli101-channel-list.tar.gz"
 SHA="599250b2b9e2494a85ac60719840a256c3b07e511ed0a1c6a7fefa4e85a2caf2"
 DEST="/etc/enigma2"
 NEED_KB=11003

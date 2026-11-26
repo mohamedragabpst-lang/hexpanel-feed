@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: egami-channel-list
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/channels/egami-channel-list.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/egami-channel-list.tar.gz"
 SHA="675718ccdddde9149ba08325edcd014b5c889f30cba23412a77b1167752555cd"
 DEST="/etc/enigma2"
 NEED_KB=11028

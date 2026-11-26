@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: pure2-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/pure2-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/pure2-spinners.tar.gz"
 SHA="95b1002016b9c57488c05f487516dde7a436b7fc3897574a36bc64048efb2770"
 DEST="/usr/share/enigma2"
 NEED_KB=10264

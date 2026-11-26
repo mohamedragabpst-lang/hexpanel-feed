@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: egami_skin_default.egami
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/egami/egami_skin_default.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/egami_skin_default.egami.tar.gz"
 SHA="96266b131f7e17bf6d27cec8d8e0b4bc5be44266996e34a276680c53f4e19ffc"
 DEST="/usr/share/enigma2"
 NEED_KB=10297

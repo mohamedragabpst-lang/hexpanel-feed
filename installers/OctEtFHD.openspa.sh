@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: OctEtFHD.openspa
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/openspa/OctEtFHD.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/OctEtFHD.openspa.tar.gz"
 SHA="abf666643a8a491dceb7a0873d015027389d2edcb084574ea1426795d55aae30"
 DEST="/usr/share/enigma2"
 NEED_KB=14378

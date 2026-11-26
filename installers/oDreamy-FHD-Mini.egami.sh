@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: oDreamy-FHD-Mini.egami
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/skins/egami/oDreamy-FHD-Mini.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/oDreamy-FHD-Mini.egami.tar.gz"
 SHA="f4bcd1240a66a4f74682f04a1ef0c37ef7816a911202a55629084c69a5b51604"
 DEST="/usr/share/enigma2"
 NEED_KB=10733

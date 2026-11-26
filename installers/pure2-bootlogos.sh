@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: pure2-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/pure2-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/pure2-bootlogos.tar.gz"
 SHA="f49033101e004febefdd990d3ea2668fef6c35e848ee772cc9d6c09f42ed8ac1"
 DEST="/"
 NEED_KB=10829

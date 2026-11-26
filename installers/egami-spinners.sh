@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: egami-spinners
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/spinners/egami-spinners.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/egami-spinners.tar.gz"
 SHA="0896885f8283e75ddf64d774d1c47e8ca8220b5b4201e0e180fc6809feb2c51d"
 DEST="/usr/share/enigma2"
 NEED_KB=10315

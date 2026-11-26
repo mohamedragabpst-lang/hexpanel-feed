@@ -1,6 +1,6 @@
 #!/bin/sh
 # HexPanel installer: corvoboys-bootlogos
-URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/bootlogos/corvoboys-bootlogos.tar.gz"
+URL="https://github.com/mohamedragabpst-lang/hexpanel-feed/releases/download/content-v1/corvoboys-bootlogos.tar.gz"
 SHA="8cc907d787f237b2d40966dc0c860629bd01fce59304186023392a0e7b42afdd"
 DEST="/"
 NEED_KB=10848
